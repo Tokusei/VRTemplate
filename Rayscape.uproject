@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AD1A7D15-4AC0-2415-CDDE-1AA16ACE0644}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Rayscape",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": true
+		}
+	]
+}
