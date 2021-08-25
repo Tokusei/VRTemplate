@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SubstanceLiveLink.cpp.obj": [
+			"SubstanceLiveLinkConnection.cpp.obj",
+			"SubstanceLiveLinkModule.cpp.obj",
+			"SubstanceLiveLinkStyle.cpp.obj",
+			"SubstanceLiveLinkTextureLoader.cpp.obj",
+			"SubstanceLiveLinkWebSocket.cpp.obj"
+		]
+	}
+}

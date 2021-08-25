@@ -1,0 +1,1204 @@
+D:/Rayscape/Rayscape/Plugins/Substance/Intermediate/Build/Win64/UE4Editor/Development/SubstanceEditor/PCH.SubstanceEditor.h
+D:/Rayscape/Rayscape/Plugins/Substance/Source/SubstanceEditor/Private/SubstanceEditorPrivatePCH.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\Factories.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\CoreTypes.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/Platform.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Build.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\hal\PreprocessorHelpers.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerPreSetup.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatform.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformCodeAnalysis.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatform.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sal.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\concurrencysal.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\MSVC/MSVCPlatform.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerSetup.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\ProfilingDebugging/UMemoryDefines.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/CoreMiscDefines.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/CoreDefines.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\CoreFwd.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/ContainersFwd.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Traits/IsContiguousContainer.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\initializer_list
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstddef
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vadefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtr1common
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\yvals_core.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xkeycheck.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\crtdefs.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\UObject/UObjectHierarchyFwd.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/VarArgs.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Logging/LogVerbosity.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/OutputDevice.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsValidVariadicFunctionArg.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\templates\IsEnum.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/AndOrNot.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsArrayOrRefOfType.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/PlatformCrt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\new
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\exception
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_new_debug.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_new.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\use_ansi.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\type_traits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstddef
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wstdlib.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\malloc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\errno.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\sys/types.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\stdio.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdarg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\corecrt_memory.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/PlatformMisc.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformMisc.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/CompressionFlags.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformMisc.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/PlatformMemory.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformMemory.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformMemory.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsSystemIncludes.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/MinimalWindowsApi.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\intrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\intrin0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\setjmp.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\immintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\wmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\nmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\smmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\pmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\emmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\mmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\zmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ammintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdint.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\driverspecs.h
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared\strsafe.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\ProfilingDebugging/CpuProfilerTrace.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+d:\unrealengine-oculusbranch\engine\source\runtime\tracelog\public\trace\Detail/Trace.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/AssertionMacros.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/EnableIf.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsPointer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/PlatformAtomics.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformAtomics.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformAtomics.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Exec.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/MemoryBase.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Atomic.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/ThreadSafeCounter.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/ThreadSafeCounter64.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsIntegral.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsTrivial.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsTriviallyDestructible.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsTriviallyCopyConstructible.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsTriviallyCopyAssignable.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Traits/IntType.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/UnrealMemory.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsArithmetic.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/AreTypesEqual.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/RemoveCV.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsPODType.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/UnrealTypeTraits.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Traits/IsVoidType.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Models.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Identity.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/RemoveReference.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/ChooseClass.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IntegralConstant.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsClass.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/TypeCompatibleBytes.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/UnrealTemplate.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/CopyQualifiersAndRefsFromTo.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/CopyQualifiersFromTo.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/NumericLimits.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/PlatformMath.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformMath.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformMath.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/UnrealPlatformMathSSE4.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/UnrealPlatformMathSSE.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/MemoryOps.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/ContainerAllocationPolicies.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsPolymorphic.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsEnumClass.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/PlatformProperties.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformProperties.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformProperties.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Compression.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\UObject/NameTypes.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/UnrealString.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsArray.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/Array.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsSigned.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Serialization/Archive.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Function.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Decay.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Invoke.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/PointerIsConvertibleFromTo.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/StaticAssertCompleteType.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/LosesQualifiersFromTo.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsConstructible.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsInvocable.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsMemberPointer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/UnrealMathUtility.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsFloatingPoint.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/EngineVersionBase.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/TextNamespaceFwd.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Serialization/MemoryImageWriter.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Serialization/MemoryLayout.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/EnumAsByte.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/TypeHash.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Crc.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Char.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\wctype.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/CString.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/PlatformString.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformString.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/MicrosoftPlatformString.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformString.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformStricmp.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/StringFwd.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsAbstract.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/DelayedAutoRegister.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Algo/Heapify.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Algo/Impl/BinaryHeap.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/ReversePredicate.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IdentityFunctor.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Less.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Algo/HeapSort.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Algo/IsHeap.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Sorting.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Algo/BinarySearch.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Algo/Sort.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Algo/IntroSort.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/AlignmentTemplates.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/StringFormatArg.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/CriticalSection.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsCriticalSection.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Timespan.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Interval.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/StringConv.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\UObject/UnrealNames.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\uobject\UnrealNames.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/FrameNumber.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Parse.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Color.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Serialization/StructuredArchive.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Serialization/StructuredArchiveFormatter.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\serialization\Formatters/BinaryArchiveFormatter.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Optional.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Concepts/Insertable.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Serialization/ArchiveProxy.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/UniqueObj.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/UniquePtr.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/RemoveExtent.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/StructBuilder.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/ScriptArray.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/BitArray.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/EnumClassFlags.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/SparseArray.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/Set.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Algo/Reverse.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/Map.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/Tuple.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/IntegerSequence.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/ColorList.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/IntPoint.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/IntVector.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Logging/LogCategory.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Logging/LogMacros.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Logging/LogScopedCategoryAndVerbosityOverride.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Logging/LogTrace.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\ProfilingDebugging/FormatArgsTrace.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Vector2D.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/IntRect.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/ByteSwap.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\HAL/PlatformTLS.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\GenericPlatform/GenericPlatformTLS.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Windows/WindowsPlatformTLS.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\CoreGlobals.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/SharedPointer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/SharedPointerInternals.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/SharedPointerTesting.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/CulturePointer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\UObject/WeakObjectPtrTemplates.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/DelegateSettings.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/IDelegateInstance.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/DelegateBase.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/MulticastDelegateBase.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\UObject/ScriptDelegates.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/Delegate.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/DelegateInstanceInterface.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/DelegateInstancesImpl.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/DelegateSignatureImpl.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Templates/IsConst.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Delegates/DelegateCombinations.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/TextLocalizationManager.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Containers/ArrayView.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/TextKey.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/LocTesting.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/LocKeyFuncs.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/LocalizedTextSourceTypes.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/Text.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/StringTableCoreFwd.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/ITextData.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Internationalization/Internationalization.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Vector.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Axis.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Vector4.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/VectorRegister.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/UnrealMathSSE.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/sse_mathfun.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/UnrealMathVectorConstants.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/UnrealMathVectorCommon.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/TwoVectors.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Edge.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\UObject/ObjectVersion.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\UObject/PendingVersions.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Plane.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Sphere.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/CapsuleShape.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Rotator.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/DateTime.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/RangeBound.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/AutomationEvent.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Misc/Guid.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Hash/CityHash.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Range.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/RangeSet.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Box.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Box2D.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/BoxSphereBounds.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/OrientedBox.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Matrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Matrix.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/RotationTranslationMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/RotationAboutPointMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/ScaleRotationTranslationMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/RotationMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Quat.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/PerspectiveMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/OrthoMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/TranslationMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/QuatRotationTranslationMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/InverseRotationMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/ScaleMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/MirrorMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/ClipProjectionMatrix.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/InterpCurvePoint.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/InterpCurve.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/CurveEdInterface.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Float32.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Float16.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Float16Color.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Vector2DHalf.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Transform.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/ScalarRegister.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/TransformVectorized.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/TransformNonVectorized.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/ConvexHull2d.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/UnrealMath.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\Math/Ray.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Class.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Concepts/GetTypeHashable.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/FallbackStruct.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNative.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Script.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Stats/Stats.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\stats\StatsCommon.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\ProfilingDebugging/MiscTrace.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\stats\StatsTrace.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMacros.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBaseUtility.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectBase.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectGlobals.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/PrimaryAssetId.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\containers\StringView.inl
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerInstancingContext.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceRedirector.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObject.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectArray.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectMarks.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ResourceSize.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/GarbageCollection.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/FastReferenceCollectorOptions.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/ReflectedTypeAccessors.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPath.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Field.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Templates/HasGetTypeHash.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakObjectPtr.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\PackedNormal.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/FortniteMainBranchObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MorphTarget.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/List.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Async/AsyncWork.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/Event.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Templates/Greater.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\BlueprintGraph\Classes\EdGraphSchema_K2.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphNode.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraphNode.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphPin.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraphPin.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetData.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Package.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageId.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerSave.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/FileRegions.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/SavePackage.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectThreadContext.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Misc/WorldCompositionUtility.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/ObjectThumbnail.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetDataTagMap.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraph.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Templates/SubclassOf.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\BlueprintUtilities.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraph.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\EdGraph/EdGraphSchema.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectKey.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EdGraphSchema.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\EdGraphSchema_K2.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\BlueprintGraph\Classes\K2Node.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\BlueprintGraph\Public\BlueprintNodeSignature.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\KismetCompiler\Public\KismetCompiler.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/EngineTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/NetSerialization.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/BitArchive.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/IConsoleManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Features/IModularFeature.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNet.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/BitWriter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\EngineLogs.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\Net/GuidReferences.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetSerialization.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintCore.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintGeneratedClass.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintGeneratedClass.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Blueprint.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\BlueprintGraph\Classes\K2Node_Event.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Textures/SlateIcon.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/MemberReference.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectIterator.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectHash.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MemberReference.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\EdGraph/EdGraphNodeUtils.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/ConfigCacheIni.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+d:\unrealengine-oculusbranch\engine\source\editor\blueprintgraph\classes\K2Node_EditablePinBase.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EditablePinBase.generated.h
+d:\unrealengine-oculusbranch\engine\source\editor\blueprintgraph\classes\K2Node_EventNodeInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Interface.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_EventNodeInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\K2Node_Event.generated.h
+d:\unrealengine-oculusbranch\engine\source\editor\kismetcompiler\public\BPTerminal.h
+d:\unrealengine-oculusbranch\engine\source\editor\kismetcompiler\public\KismetCompilerMisc.h
+d:\unrealengine-oculusbranch\engine\source\editor\kismetcompiler\public\BlueprintCompiledStatement.h
+d:\unrealengine-oculusbranch\engine\source\editor\kismetcompiler\public\EdGraphCompilerUtilities.h
+d:\unrealengine-oculusbranch\engine\source\editor\kismetcompiler\public\KismetCompiledFunctionContext.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\Kismet2/CompilerResultsLog.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Logging/TokenizedMessage.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/CompilationResult.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\EdGraphToken.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceEditor\Public\ISubstanceEditor.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkitHost.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkit.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/Margin.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Types/SlateEnums.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateEnums.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Margin.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/SlateColor.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/WidgetStyle.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateColor.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRect.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/Visibility.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateLayoutTransform.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Math/TransformCalculus.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Math/TransformCalculus2D.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/Geometry.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRotatedRect.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderTransform.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/PaintGeometry.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Geometry.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Input/CursorReply.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ICursor.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Input/ReplyBase.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Input/Reply.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore\InputCoreTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Input/Events.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/Accessibility/GenericAccessibleInterfaces.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Events.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.inl
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingCommon.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Input/NavigationReply.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\NavigationReply.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Input/PopupMethodReply.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\SlateGlobals.h
+d:\unrealengine-oculusbranch\engine\source\runtime\slatecore\public\Debugging/SlateDebugging.h
+d:\unrealengine-oculusbranch\engine\source\runtime\slatecore\public\FastUpdate/WidgetUpdateFlags.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\atomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xxatomic
+d:\unrealengine-oculusbranch\engine\source\runtime\slatecore\public\Widgets/InvalidateWidgetReason.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateDebugging.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\slatecore\public\Trace/SlateTrace.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\RenderingCommon.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyle.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyle.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/DeclarativeSyntaxSupport.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/Clipping.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\Clipping.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/FlowDirection.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FlowDirection.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Types/ISlateMetaData.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/SNullWidget.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateWidgetAccessibleTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\SlotBase.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/SWidget.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/FrameValue.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedWidget.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutGeometry.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Types/WidgetActiveTimerDelegate.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Textures/SlateShaderResource.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Types/PaintArgs.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\FastUpdate/WidgetProxy.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRootHandle.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Rendering/DrawElements.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Fonts/ShapedTextFwd.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Fonts/SlateFontInfo.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Fonts/CompositeFont.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\CompositeFont.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateFontInfo.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Fonts/FontCache.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Textures/TextureAtlas.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Fonts/FontTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontCache.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Rendering/ShaderResourceManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/SlateBrush.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateBrush.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Textures/SlateTextureData.h
+d:\unrealengine-oculusbranch\engine\source\runtime\slatecore\public\rendering\DrawElementPayloads.h
+d:\unrealengine-oculusbranch\engine\source\runtime\slatecore\public\rendering\SlateRenderBatch.h
+d:\unrealengine-oculusbranch\engine\source\runtime\slatecore\public\rendering\ElementBatcher.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/SCompoundWidget.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/Children.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/SlateTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Sound/SlateSound.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateSound.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRoot.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorToolkit.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandList.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Commands/UIAction.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandInfo.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\InputChord.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\UICommandInfo.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/MultiBoxExtender.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Docking/LayoutService.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\Toolkits/BaseToolkit.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\UnrealEdMisc.h
+d:\unrealengine-oculusbranch\engine\source\editor\unrealed\public\Editor.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/EngineBaseTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineBaseTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_AssetUserData.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_AssetUserData.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialMerging.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Level.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Classes\Editor/EditorEngine.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\ComponentInstanceDataCache.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/StructOnScope.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ComponentInstanceDataCache.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAnnotation.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ActorComponent.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Net\Core\Public\Net/Core/PushModel/PushModelMacros.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneComponent.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ChildActorComponent.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\misc\Change.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Actor.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\TimerManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/Brush.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Brush.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\Model.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RHI\Public\RHI.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rhi\public\MultiGPU.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rhi\public\RHIValidationCommon.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rhi\public\RHIResources.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rhi\public\DynamicRHI.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rhi\public\RHIContext.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rhi\public\RHIUtilities.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rhi\public\RHICommandList.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+d:\unrealengine-oculusbranch\engine\source\runtime\core\public\misc\TVariantMeta.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rhi\public\RHICommandList.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\RenderCore.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\RawIndexBuffer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\LocalVertexFactory.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\ShaderParameters.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Components.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\ShaderCore.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\UniformBuffer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\ShaderParameterMacros.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\ShaderParameterMetadata.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\RenderingThread.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\Shader.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/HashTable.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\ShaderPermutation.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\ShaderCodeLibrary.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Components.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\StaticMeshResources.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInterface.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\SceneTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/BlendableInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendableInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialLayersFunctions.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialLayersFunctions.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\MaterialSceneTextureId.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialSceneTextureId.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialRelevance.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInterface.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\PrimitiveViewRelevance.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\PrimitiveSceneProxy.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/Scene.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\SceneUtils.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\ProfilingDebugging/RealtimeGPUProfiler.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RHI\Public\GpuProfilerTrace.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Scene.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\SceneView.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\CollisionQueryParams.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\Chaos/ChaosEngineInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Declares.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/ParticleHandleFwd.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/PBDRigidsEvolutionFwd.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceWrapperShared.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceTypesCore.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/CollisionFilterData.h
+d:\unrealengine-oculusbranch\engine\source\runtime\experimental\chaos\public\chaos\ChaosArchive.h
+d:\unrealengine-oculusbranch\engine\source\runtime\experimental\chaos\public\chaos\Serializable.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/DestructionObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/ExternalPhysicsCustomObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\ChaosEngineInterface.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\WorldCollision.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAgentInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Pawn.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\EngineDefines.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\classes\engine\NetworkDelegates.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PendingNetGame.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LatentActionManager.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Subsystems/GameInstanceSubsystem.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Subsystems/Subsystem.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Subsystem.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstanceSubsystem.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Subsystems/SubsystemCollection.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorPlaySettings.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorPlayNetworkEmulationSettings.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\PropertyEditor\Public\IPropertyTypeCustomization.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
+d:\unrealengine-oculusbranch\engine\source\editor\propertyeditor\public\PropertyEditorModule.h
+d:\unrealengine-oculusbranch\engine\source\editor\propertyeditor\public\IDetailsView.h
+d:\unrealengine-oculusbranch\engine\source\editor\propertyeditor\public\PropertyEditorDelegates.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboBox.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Application/IMenu.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Application/SlateWindowHelper.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderer.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Application/SlateApplicationBase.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Application/ThrottleManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/IToolTip.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.inl
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Application/MenuStack.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Application/GestureDetector.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateUser.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\SlateScope.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\TextLayout.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBox.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboButton.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Input/SMenuAnchor.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Views/STableViewBase.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Layout/IScrollableWidget.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Views/ITypedTableView.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ITypedTableView.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Layout/InertialScrollManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Layout/Overscroll.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\STableViewBase.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Views/TableViewTypeTraits.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Views/STableRow.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Views/SExpanderArrow.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Views/SHeaderRow.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSplitter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateCoreAccessibleWidgets.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleWidgetCache.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleMessageHandler.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Views/SListView.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Views/TableViewMetadata.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\SlateCore\Public\Types/SlateConstants.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBar.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorPlayNetworkEmulationSettings.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Developer\ToolMenus\Public\ToolMenuContext.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuContext.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorPlaySettings.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstance.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Physics/PhysicsInterfaceDeclares.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldPSCPool.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\AudioDeviceManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\AudioMixerCore\Public\AudioDefines.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\AudioThread.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Subsystems/WorldSubsystem.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSubsystem.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\World.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\ShowFlags.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\ShowFlagsValues.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\ShowFlagsValues.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\ShowFlagsValues.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\ShowFlagsValues.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\ShowFlagsValues.inl
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\ConvexVolume.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportClient.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/ScriptViewportClient.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\UnrealClient.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\HitProxies.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ScriptViewportClient.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/ViewportSplitScreen.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/TitleSafeZone.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/GameViewportDelegates.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/DebugDisplayProperty.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugDisplayProperty.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\StereoRendering.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameViewportClient.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\SceneInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Math/SHMath.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\RenderGraphDefinitions.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\RendererInterface.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\RenderUtils.h
+d:\unrealengine-oculusbranch\engine\source\runtime\rendercore\public\VirtualTexturing.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\FinalPostProcessSettings.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\BlendableManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Renderer\Public\GlobalDistanceFieldParameters.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RHI\Public\RHIStaticStates.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\DebugViewModeHelpers.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\PrimitiveUniformShaderParameters.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\LightmapUniformShaderParameters.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\UnifiedBuffer.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/MeshMerging.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Components/InstancedStaticMeshComponent.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/TextureStreamingTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureStreamingTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Components/StaticMeshComponent.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Components/MeshComponent.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Components/PrimitiveComponent.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/BodyInstance.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\PhysxUserData.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Physics/PhysicsInterfaceCore.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\PhysicsCore.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Physics/PhysicsInterfacePhysX.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\EngineGlobals.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/ConstraintTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ConstraintTypes.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\physics\PhysicsInterfaceTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\BodySetupEnums.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\BodySetupEnums.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\physics\GenericPhysicsInterface.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Physics/PhysScene_PhysX.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\PhysicsPublic.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\DynamicMeshBuilder.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\SceneManagement.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/TextureLightProfile.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/Texture2D.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/Texture.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+d:\unrealengine-oculusbranch\engine\source\runtime\coreuobject\public\serialization\BulkDataCommon.h
+d:\unrealengine-oculusbranch\engine\source\runtime\coreuobject\public\serialization\BulkData2.h
+d:\unrealengine-oculusbranch\engine\source\runtime\coreuobject\public\serialization\BulkDataBuffer.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\IO/IoDispatcher.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\IO/IoContainerId.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/TextureDefines.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureDefines.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\MaterialShared.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\StaticParameterSet.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/ReleaseObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticParameterSet.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\TextureResource.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/StreamableRenderAsset.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\RenderAssetUpdate.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Streaming/StreamableRenderResourceState.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StreamableRenderAsset.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\PerPlatformProperties.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Algo/Find.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Algo/Impl/RangePointerType.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Subsystems/EngineSubsystem.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PerPlatformProperties.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2D.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextureLightProfile.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\BatchedElements.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\StaticBoundShaderState.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RHI\Public\PipelineStateCache.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\MeshBatch.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\VT/RuntimeVirtualTextureEnum.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RuntimeVirtualTextureEnum.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\DynamicBufferAllocator.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Rendering/SkyAtmosphereCommonData.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Rendering/SkyLightImportanceSampling.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\PhysicsPublicCore.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/RigidBodyIndexPair.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Physics/Experimental/PhysScene_ImmediatePhysX.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Physics/Experimental/PhysicsInterfaceImmediatePhysX.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\BodyInstanceCore.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\BodyInstanceCore.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BodyInstance.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavRelevantInterface.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\AI/NavigationModifier.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavLinkDefinition.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavLinkDefinition.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavRelevantInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PrimitiveComponent.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MeshComponent.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime/Launch/Resources/Version.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshComponent.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InstancedStaticMeshComponent.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MeshMerging.generated.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Rendering/ColorVertexBuffer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\StaticMeshVertexData.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Rendering/StaticMeshVertexDataInterface.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Rendering/StaticMeshVertexBuffer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\Rendering/PositionVertexBuffer.h
+d:\unrealengine-oculusbranch\engine\source\runtime\engine\public\WeightedRandomSampler.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Classes\Editor/Transactor.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSerializedPropertyChain.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Transactor.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorViewportSettings.h
+d:\unrealengine-oculusbranch\engine\source\editor\unrealed\public\Viewports.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UnrealEdTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorViewportSettings.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+d:\unrealengine-oculusbranch\engine\source\editor\unrealed\public\PlayInEditorDataTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PlayInEditorDataTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\EditorSubsystem\Public\EditorSubsystem.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorSubsystem\EditorSubsystem.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\UnrealEngine.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EditorEngine.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_CollisionDataProvider.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\PhysicsCore\Public\Interface_CollisionDataProviderCore.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_CollisionDataProvider.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\MeshDescription\Public\MeshTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription\MeshTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMesh.generated.h
+d:\unrealengine-oculusbranch\engine\source\editor\unrealed\public\Subsystems/ImportSubsystem.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ImportSubsystem.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\Subsystems/AssetEditorSubsystem.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\Tools/Modes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AssetEditorSubsystem.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Inc\SubstanceCore\SubstanceCoreClasses.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceCore/Classes/SubstanceGraphInstance.h
+D:\Rayscape\Rayscape\Plugins\Substance\Include\substance/framework/framework.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\renderer.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\renderopt.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\typedefs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cinttypes
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\inttypes.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\set
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\memory.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\vector.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\package.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\graph.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\output.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\renderresult.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\platform.h
+D:\Rayscape\Rayscape\Plugins\Substance\Include\substance/engineid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\memory.h
+D:\Rayscape\Rayscape\Plugins\Substance\Include\substance/texture.h
+d:\rayscape\rayscape\plugins\substance\include\substance\platformdep.h
+d:\rayscape\rayscape\plugins\substance\include\substance\defines.h
+D:\Rayscape\Rayscape\Plugins\Substance\Include\substance/textureinput.h
+d:\rayscape\rayscape\plugins\substance\include\substance\pixelformat.h
+D:\Rayscape\Rayscape\Plugins\Substance\Include\substance/iotype.h
+D:\Rayscape\Rayscape\Plugins\Substance\Include\substance/context.h
+d:\rayscape\rayscape\plugins\substance\include\substance\device.h
+d:\rayscape\rayscape\plugins\substance\include\substance\callbacks.h
+d:\rayscape\rayscape\plugins\substance\include\substance\errors.h
+d:\rayscape\rayscape\plugins\substance\include\substance\version.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\channel.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\outputfmt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\input.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\inputimage.h
+D:\Rayscape\Rayscape\Plugins\Substance\Include\substance/inputdesc.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\input.inl
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\preset.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\outputopt.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\callbacks.h
+d:\rayscape\rayscape\plugins\substance\include\substance\framework\stacking.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\MaterialCachedData.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialCachedData.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialFunctionCall.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\MaterialExpressionIO.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpression.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpression.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMaterialFunctionCall.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/Material.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialAttributeLayers.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMaterialAttributeLayers.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunction.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunctionInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSampleParameter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSample.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionFontSample.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionFontSampleParameter.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionParameter.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionParameter.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSample.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureBase.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureBase.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSample.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialFunctionInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialFunction.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Material.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substancecore\SubstanceGraphInstance.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceCore/Classes/SubstanceInstanceFactory.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substancecore\SubstanceInstanceFactory.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceCore/Classes/SubstanceOutputData.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substancecore\SubstanceOutputData.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceCore/Classes/SubstanceSettings.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substancecore\SubstanceSettings.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceCore/Classes/SubstanceTexture2D.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/Texture2DDynamic.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Texture2DDynamic.generated.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substancecore\SubstanceTexture2D.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceCore/Classes/SubstanceUtility.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintFunctionLibrary.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintFunctionLibrary.generated.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substancecore\SubstanceUtility.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Inc\SubstanceEditor\SubstanceEditorClasses.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceEditor/Classes/SubstanceFactory.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceEditor\Public\SubstanceImportOptionsUi.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substanceeditor\SubstanceImportOptionsUi.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Classes\Factories/Factory.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Factory.generated.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substanceeditor\SubstanceFactory.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceEditor/Classes/ReimportSubstanceFactory.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\EditorReimportHandler.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substanceeditor\ReimportSubstanceFactory.generated.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceEditor/Classes/SubstanceInstanceExporter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Exporters/Exporter.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Exporter.generated.h
+d:\rayscape\rayscape\plugins\substance\intermediate\build\win64\ue4editor\inc\substanceeditor\SubstanceInstanceExporter.generated.h
+d:\rayscape\rayscape\plugins\substance\source\substanceeditor\private\SSubstanceEditorPanel.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\SEditorViewport.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+d:\unrealengine-oculusbranch\engine\source\editor\unrealed\public\UnrealWidget.h
+d:\unrealengine-oculusbranch\engine\source\editor\unrealed\public\EditorViewportClient.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Camera/CameraTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraTypes.generated.h
+d:\unrealengine-oculusbranch\engine\source\editor\unrealed\public\EditorComponents.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Commands/Commands.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputBindingManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Public\AssetThumbnail.h
+d:\unrealengine-oculusbranch\engine\source\editor\unrealed\public\TickableEditorObject.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\Tickable.h
+D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceCore\Public\SubstanceCoreHelpers.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter2D.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter2D.generated.h

@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SubstanceLink.cpp.obj": [
+			"application.cpp.obj",
+			"export.cpp.obj",
+			"module.cpp.obj",
+			"system.cpp.obj",
+			"component.cpp.obj",
+			"componentimpl.cpp.obj",
+			"instance.cpp.obj",
+			"style.cpp.obj",
+			"window_error.cpp.obj",
+			"substance_link_module.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"BuildId": "f5ac8e3e-5f9d-4ba2-a22e-e9e5cf261a33",
+	"Modules": 
+	{
+		"SubstanceCore": "UE4Editor-SubstanceCore.dll",
+		"SubstanceEditor": "UE4Editor-SubstanceEditor.dll",
+		"SubstanceLink": "UE4Editor-SubstanceLink.dll",
+		"SubstanceLiveLink": "UE4Editor-SubstanceLiveLink.dll"
+	}
+}

@@ -28,7 +28,7 @@ enum class EGripInterfaceTeleportBehavior : uint8;
 #endif
 #define VREXPANSIONPLUGIN_VRGripInterface_generated_h
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_27_DELEGATE \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_27_DELEGATE \
 struct _Script_VRExpansionPlugin_eventVROnDropSignature_Parms \
 { \
 	UGripMotionControllerComponent* GrippingController; \
@@ -45,7 +45,7 @@ static inline void FVROnDropSignature_DelegateWrapper(const FMulticastScriptDele
 }
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_24_DELEGATE \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_24_DELEGATE \
 struct _Script_VRExpansionPlugin_eventVROnGripSignature_Parms \
 { \
 	UGripMotionControllerComponent* GrippingController; \
@@ -60,8 +60,8 @@ static inline void FVROnGripSignature_DelegateWrapper(const FMulticastScriptDele
 }
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_SPARSE_DATA
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_RPC_WRAPPERS \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_SPARSE_DATA
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_RPC_WRAPPERS \
 	virtual bool GetGripScripts_Implementation(TArray<UVRGripScriptBase*>& ArrayReference) { return false; }; \
 	virtual bool RequestsSocketing_Implementation(USceneComponent*& ParentToSocketTo, FName& OptionalSocketName, FTransform_NetQuantize& RelativeTransform) { return false; }; \
 	virtual void SetHeld_Implementation(UGripMotionControllerComponent* HoldingController, uint8 GripID, bool bIsHeld) {}; \
@@ -121,7 +121,7 @@ static inline void FVROnGripSignature_DelegateWrapper(const FMulticastScriptDele
 	DECLARE_FUNCTION(execDenyGripping);
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual bool GetGripScripts_Implementation(TArray<UVRGripScriptBase*>& ArrayReference) { return false; }; \
 	virtual bool RequestsSocketing_Implementation(USceneComponent*& ParentToSocketTo, FName& OptionalSocketName, FTransform_NetQuantize& RelativeTransform) { return false; }; \
 	virtual void SetHeld_Implementation(UGripMotionControllerComponent* HoldingController, uint8 GripID, bool bIsHeld) {}; \
@@ -181,7 +181,7 @@ static inline void FVROnGripSignature_DelegateWrapper(const FMulticastScriptDele
 	DECLARE_FUNCTION(execDenyGripping);
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_EVENT_PARMS \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_EVENT_PARMS \
 	struct VRGripInterface_eventAdvancedGripSettings_Parms \
 	{ \
 		FBPAdvGripSettings ReturnValue; \
@@ -375,8 +375,8 @@ static inline void FVROnGripSignature_DelegateWrapper(const FMulticastScriptDele
 	};
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_CALLBACK_WRAPPERS
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_STANDARD_CONSTRUCTORS \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_CALLBACK_WRAPPERS
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVRGripInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGripInterface) \
@@ -389,7 +389,7 @@ private: \
 public:
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_ENHANCED_CONSTRUCTORS \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVRGripInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -402,7 +402,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGripInterface); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGripInterface)
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_UINTERFACE_BODY() \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_UINTERFACE_BODY() \
 private: \
 	static void StaticRegisterNativesUVRGripInterface(); \
 	friend struct Z_Construct_UClass_UVRGripInterface_Statics; \
@@ -411,22 +411,22 @@ public: \
 	DECLARE_SERIALIZER(UVRGripInterface)
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_BODY_LEGACY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_BODY_LEGACY \
 		PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_UINTERFACE_BODY() \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_STANDARD_CONSTRUCTORS \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_UINTERFACE_BODY() \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_STANDARD_CONSTRUCTORS \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_BODY \
 	PRAGMA_DISABLE_DEPRECATION_WARNINGS \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_UINTERFACE_BODY() \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_ENHANCED_CONSTRUCTORS \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_UINTERFACE_BODY() \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 	PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_INCLASS_IINTERFACE_NO_PURE_DECLS \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_INCLASS_IINTERFACE_NO_PURE_DECLS \
 protected: \
 	virtual ~IVRGripInterface() {} \
 public: \
@@ -463,7 +463,7 @@ public: \
 	virtual UObject* _getUObject() const { check(0 && "Missing required implementation."); return nullptr; }
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_INCLASS_IINTERFACE \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_INCLASS_IINTERFACE \
 protected: \
 	virtual ~IVRGripInterface() {} \
 public: \
@@ -500,28 +500,28 @@ public: \
 	virtual UObject* _getUObject() const { check(0 && "Missing required implementation."); return nullptr; }
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_16_PROLOG \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_EVENT_PARMS
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_16_PROLOG \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_EVENT_PARMS
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_31_GENERATED_BODY_LEGACY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_31_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_SPARSE_DATA \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_RPC_WRAPPERS \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_CALLBACK_WRAPPERS \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_INCLASS_IINTERFACE \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_SPARSE_DATA \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_RPC_WRAPPERS \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_CALLBACK_WRAPPERS \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_INCLASS_IINTERFACE \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_31_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_31_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_SPARSE_DATA \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_CALLBACK_WRAPPERS \
-	Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_INCLASS_IINTERFACE_NO_PURE_DECLS \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_SPARSE_DATA \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_CALLBACK_WRAPPERS \
+	Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -529,7 +529,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VREXPANSIONPLUGIN_API UClass* StaticClass<class UVRGripInterface>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Rayscape_Plugins_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h
+#define CURRENT_FILE_ID Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

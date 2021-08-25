@@ -1,8 +1,8 @@
-D:\Rayscape\Plugins\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
-D:/Rayscape/Plugins/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionFunctionLibrary.gen.cpp
+D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\OpenVRExpansionPlugin\Definitions.OpenVRExpansionPlugin.h
+D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionFunctionLibrary.gen.cpp
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Rayscape\Plugins\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/OpenVRExpansionFunctionLibrary.h
+D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/OpenVRExpansionFunctionLibrary.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
 D:\UnrealEngine-OculusBranch\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
@@ -48,10 +48,10 @@ D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadM
 D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
 d:\unrealengine-oculusbranch\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
-d:\rayscape\plugins\openvrexpansionplugin\intermediate\build\win64\ue4editor\inc\openvrexpansionplugin\OpenVRExpansionFunctionLibrary.generated.h
-D:/Rayscape/Plugins/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionPlugin.init.gen.cpp
-D:/Rayscape/Plugins/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/SteamVRKeyboardComponent.gen.cpp
-D:\Rayscape\Plugins\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/SteamVRKeyboardComponent.h
+d:\rayscape\rayscape\plugins\vrexpansionplugin\openvrexpansionplugin\intermediate\build\win64\ue4editor\inc\openvrexpansionplugin\OpenVRExpansionFunctionLibrary.generated.h
+D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/OpenVRExpansionPlugin.init.gen.cpp
+D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Intermediate/Build/Win64/UE4Editor/Inc/OpenVRExpansionPlugin/SteamVRKeyboardComponent.gen.cpp
+D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin/Public/SteamVRKeyboardComponent.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
 d:\unrealengine-oculusbranch\engine\source\runtime\headmounteddisplay\public\IXRInput.h
-d:\rayscape\plugins\openvrexpansionplugin\intermediate\build\win64\ue4editor\inc\openvrexpansionplugin\SteamVRKeyboardComponent.generated.h
+d:\rayscape\rayscape\plugins\vrexpansionplugin\openvrexpansionplugin\intermediate\build\win64\ue4editor\inc\openvrexpansionplugin\SteamVRKeyboardComponent.generated.h

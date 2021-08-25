@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SubstanceEditor.cpp.obj": [
+			"AssetTypeActions_SubstanceGraphInstance.cpp.obj",
+			"AssetTypeActions_SubstanceInstanceFactory.cpp.obj",
+			"SSubstanceEditorPanel.cpp.obj",
+			"SubstanceEditor.cpp.obj",
+			"SubstanceEditorModule.cpp.obj",
+			"SubstanceFactory.cpp.obj",
+			"SubstanceInstanceExporter.cpp.obj",
+			"SubstanceOptionWindow.cpp.obj",
+			"SubstanceImportOptionsUi.cpp.obj"
+		],
+		"Module.SubstanceEditor.gen.cpp.obj": [
+			"ReimportSubstanceFactory.gen.cpp.obj",
+			"SubstanceEditor.init.gen.cpp.obj",
+			"SubstanceFactory.gen.cpp.obj",
+			"SubstanceImportOptionsUi.gen.cpp.obj",
+			"SubstanceInstanceExporter.gen.cpp.obj"
+		]
+	}
+}

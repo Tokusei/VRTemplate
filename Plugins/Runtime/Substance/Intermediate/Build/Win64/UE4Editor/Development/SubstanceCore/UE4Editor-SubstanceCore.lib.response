@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SubstanceCore.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\PCH.SubstanceCore.h.obj"
+"D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\Module.SubstanceCore.cpp.obj"
+"D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\Module.SubstanceCore.gen.cpp.obj"
+"D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\UE4Editor-SubstanceCore.lib"
+/INCLUDE:IMPLEMENT_MODULE_SubstanceCore

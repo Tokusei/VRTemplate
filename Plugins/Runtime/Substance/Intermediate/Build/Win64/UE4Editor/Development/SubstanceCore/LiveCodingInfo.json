@@ -1,0 +1,28 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SubstanceCore.cpp.obj": [
+			"SubstanceCallbacks.cpp.obj",
+			"SubstanceCoreCustomVersion.cpp.obj",
+			"SubstanceCoreHelpers.cpp.obj",
+			"SubstanceCoreModule.cpp.obj",
+			"SubstanceGraphInstance.cpp.obj",
+			"SubstanceInstanceFactory.cpp.obj",
+			"SubstanceOutputData.cpp.obj",
+			"SubstanceSettings.cpp.obj",
+			"SubstanceStructuresSerialization.cpp.obj",
+			"SubstanceStyle.cpp.obj",
+			"SubstanceTexture2D.cpp.obj",
+			"SubstanceUtility.cpp.obj"
+		],
+		"Module.SubstanceCore.gen.cpp.obj": [
+			"SubstanceCore.init.gen.cpp.obj",
+			"SubstanceGraphInstance.gen.cpp.obj",
+			"SubstanceInstanceFactory.gen.cpp.obj",
+			"SubstanceOutputData.gen.cpp.obj",
+			"SubstanceSettings.gen.cpp.obj",
+			"SubstanceTexture2D.gen.cpp.obj",
+			"SubstanceUtility.gen.cpp.obj"
+		]
+	}
+}

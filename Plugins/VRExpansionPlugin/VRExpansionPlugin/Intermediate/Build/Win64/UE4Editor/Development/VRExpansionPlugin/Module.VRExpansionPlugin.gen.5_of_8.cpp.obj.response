@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I D:\Rayscape\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Private
+/I D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
 /I Editor
 /I Programs\UnrealLightmass\Public
@@ -232,9 +232,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AIModule
 /I Runtime\AIModule\Public
 /I Runtime\AIModule\Classes
-/I D:\Rayscape\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
-/I D:\Rayscape\Plugins\VRExpansionPlugin\Source
-/I D:\Rayscape\Plugins\VRExpansionPlugin\Source\VRExpansionPlugin\Public
+/I D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin
+/I D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
+/I D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -277,9 +277,9 @@
 /FI"D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
 /Yu"D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
 /Fp"D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"D:\Rayscape\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.5_of_8.cpp"
-/FI"D:\Rayscape\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
-/Fo"D:\Rayscape\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.5_of_8.cpp.obj"
+"D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.5_of_8.cpp"
+/FI"D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
+/Fo"D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.5_of_8.cpp.obj"
 /TP
 /GR-
 /W4
