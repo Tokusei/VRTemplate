@@ -115,7 +115,7 @@ void EmptyLinkFunctionForGeneratedCodeGrippableStaticMeshActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UOptionalRepStaticMeshComponent, 1300597779);
+	IMPLEMENT_CLASS(UOptionalRepStaticMeshComponent, 459560479);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UOptionalRepStaticMeshComponent>()
 	{
 		return UOptionalRepStaticMeshComponent::StaticClass();
@@ -805,7 +805,7 @@ void EmptyLinkFunctionForGeneratedCodeGrippableStaticMeshActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGrippableStaticMeshActor, 4172200803);
+	IMPLEMENT_CLASS(AGrippableStaticMeshActor, 601732290);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AGrippableStaticMeshActor>()
 	{
 		return AGrippableStaticMeshActor::StaticClass();

@@ -83,7 +83,7 @@ public: \
 	NO_API UGS_GunTools(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_GunTools) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_GunTools); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_GunTools); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_GunTools); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGS_GunTools(UGS_GunTools&&); \
@@ -98,7 +98,7 @@ private: \
 	NO_API UGS_GunTools(const UGS_GunTools&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_GunTools); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_GunTools); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_GunTools); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_GunTools)
 
 

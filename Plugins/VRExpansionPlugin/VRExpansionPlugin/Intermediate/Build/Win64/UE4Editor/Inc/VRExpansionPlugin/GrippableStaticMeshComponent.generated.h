@@ -73,7 +73,7 @@ public: \
 	NO_API UGrippableStaticMeshComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrippableStaticMeshComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGrippableStaticMeshComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableStaticMeshComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableStaticMeshComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGrippableStaticMeshComponent(UGrippableStaticMeshComponent&&); \
@@ -88,7 +88,7 @@ private: \
 	NO_API UGrippableStaticMeshComponent(const UGrippableStaticMeshComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGrippableStaticMeshComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableStaticMeshComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableStaticMeshComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrippableStaticMeshComponent)
 
 

@@ -69,7 +69,7 @@ public: \
 	NO_API UVRMountComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRMountComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRMountComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRMountComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRMountComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRMountComponent(UVRMountComponent&&); \
@@ -84,7 +84,7 @@ private: \
 	NO_API UVRMountComponent(const UVRMountComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRMountComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRMountComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRMountComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRMountComponent)
 
 

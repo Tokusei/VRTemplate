@@ -1227,7 +1227,7 @@ void EmptyLinkFunctionForGeneratedCodeVRButtonComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UVRButtonComponent, 1831764033);
+	IMPLEMENT_CLASS(UVRButtonComponent, 2980966612);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UVRButtonComponent>()
 	{
 		return UVRButtonComponent::StaticClass();

@@ -38,7 +38,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFWeldedBoneDr
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFWeldedBoneDriverData()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("WeldedBoneDriverData")),new UScriptStruct::TCppStructOps<FWeldedBoneDriverData>);
+		UScriptStruct::DeferCppStructOps<FWeldedBoneDriverData>(FName(TEXT("WeldedBoneDriverData")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFWeldedBoneDriverData;
 	struct Z_Construct_UScriptStruct_FWeldedBoneDriverData_Statics

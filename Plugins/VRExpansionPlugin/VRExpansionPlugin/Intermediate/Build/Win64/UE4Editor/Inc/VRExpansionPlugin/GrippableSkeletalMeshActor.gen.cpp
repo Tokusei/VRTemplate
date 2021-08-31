@@ -115,7 +115,7 @@ void EmptyLinkFunctionForGeneratedCodeGrippableSkeletalMeshActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UOptionalRepSkeletalMeshComponent, 4234513720);
+	IMPLEMENT_CLASS(UOptionalRepSkeletalMeshComponent, 3719851820);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UOptionalRepSkeletalMeshComponent>()
 	{
 		return UOptionalRepSkeletalMeshComponent::StaticClass();
@@ -801,7 +801,7 @@ void EmptyLinkFunctionForGeneratedCodeGrippableSkeletalMeshActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGrippableSkeletalMeshActor, 2856458385);
+	IMPLEMENT_CLASS(AGrippableSkeletalMeshActor, 3429245881);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AGrippableSkeletalMeshActor>()
 	{
 		return AGrippableSkeletalMeshActor::StaticClass();

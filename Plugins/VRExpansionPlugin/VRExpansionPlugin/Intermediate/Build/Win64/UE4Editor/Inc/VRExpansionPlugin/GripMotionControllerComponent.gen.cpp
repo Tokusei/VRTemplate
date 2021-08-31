@@ -334,7 +334,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGripComponen
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGripComponentEndPhysicsTickFunction()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("GripComponentEndPhysicsTickFunction")),new UScriptStruct::TCppStructOps<FGripComponentEndPhysicsTickFunction>);
+		UScriptStruct::DeferCppStructOps<FGripComponentEndPhysicsTickFunction>(FName(TEXT("GripComponentEndPhysicsTickFunction")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGripComponentEndPhysicsTickFunction;
 	struct Z_Construct_UScriptStruct_FGripComponentEndPhysicsTickFunction_Statics
@@ -6143,6 +6143,11 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGripComponen
 		static void NewProp_bOffsetByHMD_SetBit(void* Obj);
 		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bOffsetByHMD;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bConstrainToPivot_MetaData[];
+#endif
+		static void NewProp_bConstrainToPivot_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bConstrainToPivot;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_AttachChar_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FWeakObjectPropertyParams NewProp_AttachChar;
@@ -6433,6 +6438,19 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGripComponen
 		((UGripMotionControllerComponent*)Obj)->bOffsetByHMD = 1;
 	}
 	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bOffsetByHMD = { "bOffsetByHMD", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UGripMotionControllerComponent), &Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bOffsetByHMD_SetBit, METADATA_PARAMS(Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bOffsetByHMD_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bOffsetByHMD_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bConstrainToPivot_MetaData[] = {
+		{ "Category", "GripMotionController" },
+		{ "Comment", "// When true any physics constraints will be attached to the grip pivot instead of a new kinematic actor in the scene\n" },
+		{ "ModuleRelativePath", "Public/GripMotionControllerComponent.h" },
+		{ "ToolTip", "When true any physics constraints will be attached to the grip pivot instead of a new kinematic actor in the scene" },
+	};
+#endif
+	void Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bConstrainToPivot_SetBit(void* Obj)
+	{
+		((UGripMotionControllerComponent*)Obj)->bConstrainToPivot = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bConstrainToPivot = { "bConstrainToPivot", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UGripMotionControllerComponent), &Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bConstrainToPivot_SetBit, METADATA_PARAMS(Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bConstrainToPivot_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bConstrainToPivot_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_AttachChar_MetaData[] = {
 		{ "ModuleRelativePath", "Public/GripMotionControllerComponent.h" },
@@ -6765,6 +6783,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGripComponen
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_DefaultGripScript,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_OnLerpToHandFinished,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bOffsetByHMD,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bConstrainToPivot,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_AttachChar,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bSmoothHandTracking,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGripMotionControllerComponent_Statics::NewProp_bSmoothWithEuroLowPassFunction,
@@ -6831,7 +6850,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGripComponen
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UGripMotionControllerComponent, 923170288);
+	IMPLEMENT_CLASS(UGripMotionControllerComponent, 1100175615);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UGripMotionControllerComponent>()
 	{
 		return UGripMotionControllerComponent::StaticClass();

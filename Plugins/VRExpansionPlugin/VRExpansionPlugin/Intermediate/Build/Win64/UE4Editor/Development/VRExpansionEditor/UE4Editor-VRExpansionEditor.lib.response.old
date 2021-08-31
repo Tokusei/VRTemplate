@@ -7,7 +7,6 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"D:\Rayscape\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
+"C:\Users\nad\Desktop\VRExpPluginExample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
 "D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-/OUT:"D:\Rayscape\Plugins\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.lib"
-/INCLUDE:IMPLEMENT_MODULE_VRExpansionEditor
+/OUT:"C:\Users\nad\Desktop\VRExpPluginExample\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\UE4Editor-VRExpansionEditor.lib"

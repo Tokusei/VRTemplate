@@ -73,7 +73,7 @@ public: \
 	NO_API UGrippableSphereComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrippableSphereComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGrippableSphereComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableSphereComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableSphereComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGrippableSphereComponent(UGrippableSphereComponent&&); \
@@ -88,7 +88,7 @@ private: \
 	NO_API UGrippableSphereComponent(const UGrippableSphereComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGrippableSphereComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableSphereComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableSphereComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrippableSphereComponent)
 
 

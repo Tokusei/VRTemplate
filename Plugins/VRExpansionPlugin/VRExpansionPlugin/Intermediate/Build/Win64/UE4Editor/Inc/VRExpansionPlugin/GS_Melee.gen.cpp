@@ -400,7 +400,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPLodgeCompo
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPLodgeComponentInfo()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPLodgeComponentInfo")),new UScriptStruct::TCppStructOps<FBPLodgeComponentInfo>);
+		UScriptStruct::DeferCppStructOps<FBPLodgeComponentInfo>(FName(TEXT("BPLodgeComponentInfo")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPLodgeComponentInfo;
 	struct Z_Construct_UScriptStruct_FBPLodgeComponentInfo_Statics
@@ -634,7 +634,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPHitSurface
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPHitSurfaceProperties()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPHitSurfaceProperties")),new UScriptStruct::TCppStructOps<FBPHitSurfaceProperties>);
+		UScriptStruct::DeferCppStructOps<FBPHitSurfaceProperties>(FName(TEXT("BPHitSurfaceProperties")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPHitSurfaceProperties;
 	struct Z_Construct_UScriptStruct_FBPHitSurfaceProperties_Statics

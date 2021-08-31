@@ -379,9 +379,9 @@ static inline void FVROnGripSignature_DelegateWrapper(const FMulticastScriptDele
 #define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVRGripInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGripInterface) \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGripInterface) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRGripInterface); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGripInterface); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGripInterface); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRGripInterface(UVRGripInterface&&); \
@@ -398,8 +398,8 @@ private: \
 	NO_API UVRGripInterface(const UVRGripInterface&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRGripInterface); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGripInterface); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGripInterface)
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGripInterface); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGripInterface)
 
 
 #define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRGripInterface_h_19_GENERATED_UINTERFACE_BODY() \

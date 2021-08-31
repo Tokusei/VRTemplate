@@ -39,7 +39,7 @@ public: \
 	NO_API UVRCharacterMovementComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRCharacterMovementComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRCharacterMovementComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRCharacterMovementComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRCharacterMovementComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRCharacterMovementComponent(UVRCharacterMovementComponent&&); \
@@ -54,7 +54,7 @@ private: \
 	NO_API UVRCharacterMovementComponent(const UVRCharacterMovementComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRCharacterMovementComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRCharacterMovementComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRCharacterMovementComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRCharacterMovementComponent)
 
 

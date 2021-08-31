@@ -633,7 +633,7 @@ void EmptyLinkFunctionForGeneratedCodeVRStereoWidgetComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UVRStereoWidgetComponent, 131855595);
+	IMPLEMENT_CLASS(UVRStereoWidgetComponent, 4027416939);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UVRStereoWidgetComponent>()
 	{
 		return UVRStereoWidgetComponent::StaticClass();

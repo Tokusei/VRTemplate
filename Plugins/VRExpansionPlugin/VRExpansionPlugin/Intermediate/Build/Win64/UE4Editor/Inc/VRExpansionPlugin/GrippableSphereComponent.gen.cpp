@@ -342,7 +342,7 @@ void EmptyLinkFunctionForGeneratedCodeGrippableSphereComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UGrippableSphereComponent, 4254283618);
+	IMPLEMENT_CLASS(UGrippableSphereComponent, 317014385);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UGrippableSphereComponent>()
 	{
 		return UGrippableSphereComponent::StaticClass();

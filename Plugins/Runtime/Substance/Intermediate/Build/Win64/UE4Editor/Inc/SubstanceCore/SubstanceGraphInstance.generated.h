@@ -20,14 +20,14 @@ class UMaterialInstanceDynamic;
 #endif
 #define SUBSTANCECORE_SubstanceGraphInstance_generated_h
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_97_GENERATED_BODY \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_97_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSubstanceInstanceDesc_Statics; \
 	SUBSTANCECORE_API static class UScriptStruct* StaticStruct();
 
 
 template<> SUBSTANCECORE_API UScriptStruct* StaticStruct<struct FSubstanceInstanceDesc>();
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_82_GENERATED_BODY \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_82_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSubstanceFloatInputDesc_Statics; \
 	SUBSTANCECORE_API static class UScriptStruct* StaticStruct(); \
 	typedef FSubstanceInputDesc Super;
@@ -35,7 +35,7 @@ template<> SUBSTANCECORE_API UScriptStruct* StaticStruct<struct FSubstanceInstan
 
 template<> SUBSTANCECORE_API UScriptStruct* StaticStruct<struct FSubstanceFloatInputDesc>();
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_67_GENERATED_BODY \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_67_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSubstanceIntInputDesc_Statics; \
 	SUBSTANCECORE_API static class UScriptStruct* StaticStruct(); \
 	typedef FSubstanceInputDesc Super;
@@ -43,15 +43,15 @@ template<> SUBSTANCECORE_API UScriptStruct* StaticStruct<struct FSubstanceFloatI
 
 template<> SUBSTANCECORE_API UScriptStruct* StaticStruct<struct FSubstanceIntInputDesc>();
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_55_GENERATED_BODY \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_55_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSubstanceInputDesc_Statics; \
 	SUBSTANCECORE_API static class UScriptStruct* StaticStruct();
 
 
 template<> SUBSTANCECORE_API UScriptStruct* StaticStruct<struct FSubstanceInputDesc>();
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_SPARSE_DATA
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_RPC_WRAPPERS \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_SPARSE_DATA
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetInputImg); \
 	DECLARE_FUNCTION(execGetInstanceDesc); \
@@ -72,7 +72,7 @@ template<> SUBSTANCECORE_API UScriptStruct* StaticStruct<struct FSubstanceInputD
 	DECLARE_FUNCTION(execGetDynamicMaterialInstance);
 
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetInputImg); \
 	DECLARE_FUNCTION(execGetInstanceDesc); \
@@ -93,36 +93,36 @@ template<> SUBSTANCECORE_API UScriptStruct* StaticStruct<struct FSubstanceInputD
 	DECLARE_FUNCTION(execGetDynamicMaterialInstance);
 
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ARCHIVESERIALIZER \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ARCHIVESERIALIZER \
 	DECLARE_FSTRUCTUREDARCHIVE_SERIALIZER(USubstanceGraphInstance, NO_API)
 
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_INCLASS_NO_PURE_DECLS \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSubstanceGraphInstance(); \
 	friend struct Z_Construct_UClass_USubstanceGraphInstance_Statics; \
 public: \
 	DECLARE_CLASS(USubstanceGraphInstance, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SubstanceCore"), NO_API) \
 	DECLARE_SERIALIZER(USubstanceGraphInstance) \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ARCHIVESERIALIZER
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ARCHIVESERIALIZER
 
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_INCLASS \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_INCLASS \
 private: \
 	static void StaticRegisterNativesUSubstanceGraphInstance(); \
 	friend struct Z_Construct_UClass_USubstanceGraphInstance_Statics; \
 public: \
 	DECLARE_CLASS(USubstanceGraphInstance, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SubstanceCore"), NO_API) \
 	DECLARE_SERIALIZER(USubstanceGraphInstance) \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ARCHIVESERIALIZER
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ARCHIVESERIALIZER
 
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_STANDARD_CONSTRUCTORS \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USubstanceGraphInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USubstanceGraphInstance) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USubstanceGraphInstance); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USubstanceGraphInstance); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USubstanceGraphInstance); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API USubstanceGraphInstance(USubstanceGraphInstance&&); \
@@ -130,7 +130,7 @@ private: \
 public:
 
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ENHANCED_CONSTRUCTORS \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USubstanceGraphInstance(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -139,32 +139,32 @@ private: \
 	NO_API USubstanceGraphInstance(const USubstanceGraphInstance&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USubstanceGraphInstance); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USubstanceGraphInstance); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USubstanceGraphInstance); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USubstanceGraphInstance)
 
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_PRIVATE_PROPERTY_OFFSET
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_106_PROLOG
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_GENERATED_BODY_LEGACY \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_PRIVATE_PROPERTY_OFFSET
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_106_PROLOG
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_PRIVATE_PROPERTY_OFFSET \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_SPARSE_DATA \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_RPC_WRAPPERS \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_INCLASS \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_STANDARD_CONSTRUCTORS \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_PRIVATE_PROPERTY_OFFSET \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_SPARSE_DATA \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_RPC_WRAPPERS \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_INCLASS \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_GENERATED_BODY \
+#define Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_PRIVATE_PROPERTY_OFFSET \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_SPARSE_DATA \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_RPC_WRAPPERS_NO_PURE_DECLS \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_INCLASS_NO_PURE_DECLS \
-	Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ENHANCED_CONSTRUCTORS \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_PRIVATE_PROPERTY_OFFSET \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_SPARSE_DATA \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_RPC_WRAPPERS_NO_PURE_DECLS \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_INCLASS_NO_PURE_DECLS \
+	Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h_109_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class SubstanceGraphInstance."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -172,7 +172,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SUBSTANCECORE_API UClass* StaticClass<class USubstanceGraphInstance>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Rayscape_Plugins_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h
+#define CURRENT_FILE_ID Rayscape_Plugins_Runtime_Substance_Source_SubstanceCore_Classes_SubstanceGraphInstance_h
 
 
 #define FOREACH_ENUM_ESUBSTANCEINPUTTYPE(op) \

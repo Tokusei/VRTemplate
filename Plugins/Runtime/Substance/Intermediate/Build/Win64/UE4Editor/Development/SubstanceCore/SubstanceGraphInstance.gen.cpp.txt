@@ -1,0 +1,154 @@
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Source\SubstanceCore/Classes/SubstanceGraphInstance.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance/framework/framework.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\renderer.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\renderopt.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\typedefs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cinttypes
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\inttypes.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\set
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\sstream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\memory.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\vector.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\package.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\graph.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\output.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\renderresult.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\platform.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\memory.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\channel.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\outputfmt.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\input.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\inputimage.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\input.inl
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\preset.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\outputopt.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\callbacks.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Include\substance\framework\stacking.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceConstant.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/EngineTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Templates/SubclassOf.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/NetSerialization.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/BitReader.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/BitArchive.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNet.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/BitWriter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\EngineLogs.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\Net/GuidReferences.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetSerialization.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\SceneTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SceneTypes.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Engine/BlendableInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\UObject/Interface.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlendableInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialLayersFunctions.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialLayersFunctions.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_AssetUserData.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Interface_AssetUserData.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\MaterialSceneTextureId.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialSceneTextureId.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialRelevance.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\StaticParameterSet.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/FortniteMainBranchObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/ReleaseObjectVersion.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticParameterSet.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\MaterialShared.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\Shader.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Containers/HashTable.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\ShaderParameters.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\ShaderPermutation.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\ShaderCodeLibrary.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\MaterialCachedData.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialCachedData.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialFunctionCall.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\MaterialExpressionIO.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpression.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpression.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMaterialFunctionCall.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/Material.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialAttributeLayers.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMaterialAttributeLayers.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunction.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunctionInterface.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSampleParameter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSample.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionFontSample.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionFontSampleParameter.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionParameter.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionParameter.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSample.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureBase.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureBase.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSample.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialFunctionInterface.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialFunction.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Material.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceConstant.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
+D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Inc\SubstanceCore\SubstanceGraphInstance.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveUObjectFromStructuredArchive.h

@@ -37,7 +37,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRClientAuth
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRClientAuthReplicationData()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRClientAuthReplicationData")),new UScriptStruct::TCppStructOps<FVRClientAuthReplicationData>);
+		UScriptStruct::DeferCppStructOps<FVRClientAuthReplicationData>(FName(TEXT("VRClientAuthReplicationData")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRClientAuthReplicationData;
 	struct Z_Construct_UScriptStruct_FVRClientAuthReplicationData_Statics
@@ -149,7 +149,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepMovementV
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepMovementVR()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("RepMovementVR")),new UScriptStruct::TCppStructOps<FRepMovementVR>);
+		UScriptStruct::DeferCppStructOps<FRepMovementVR>(FName(TEXT("RepMovementVR")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepMovementVR;
 	struct Z_Construct_UScriptStruct_FRepMovementVR_Statics

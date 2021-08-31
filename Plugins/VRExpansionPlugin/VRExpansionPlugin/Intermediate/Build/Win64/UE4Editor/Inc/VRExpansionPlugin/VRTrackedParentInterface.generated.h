@@ -29,9 +29,9 @@ enum class EBPVRWaistTrackingMode : uint8;
 #define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRTrackedParentInterface_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	VREXPANSIONPLUGIN_API UVRTrackedParentInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRTrackedParentInterface) \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRTrackedParentInterface) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(VREXPANSIONPLUGIN_API, UVRTrackedParentInterface); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRTrackedParentInterface); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRTrackedParentInterface); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	VREXPANSIONPLUGIN_API UVRTrackedParentInterface(UVRTrackedParentInterface&&); \
@@ -48,8 +48,8 @@ private: \
 	VREXPANSIONPLUGIN_API UVRTrackedParentInterface(const UVRTrackedParentInterface&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(VREXPANSIONPLUGIN_API, UVRTrackedParentInterface); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRTrackedParentInterface); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRTrackedParentInterface)
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRTrackedParentInterface); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRTrackedParentInterface)
 
 
 #define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRTrackedParentInterface_h_16_GENERATED_UINTERFACE_BODY() \

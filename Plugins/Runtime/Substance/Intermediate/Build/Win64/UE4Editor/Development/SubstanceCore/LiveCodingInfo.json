@@ -16,11 +16,11 @@
 			"SubstanceUtility.cpp.obj"
 		],
 		"Module.SubstanceCore.gen.cpp.obj": [
-			"SubstanceCore.init.gen.cpp.obj",
-			"SubstanceGraphInstance.gen.cpp.obj",
 			"SubstanceInstanceFactory.gen.cpp.obj",
 			"SubstanceOutputData.gen.cpp.obj",
 			"SubstanceSettings.gen.cpp.obj",
+			"SubstanceCore.init.gen.cpp.obj",
+			"SubstanceGraphInstance.gen.cpp.obj",
 			"SubstanceTexture2D.gen.cpp.obj",
 			"SubstanceUtility.gen.cpp.obj"
 		]

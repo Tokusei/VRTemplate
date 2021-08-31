@@ -99,7 +99,7 @@ public: \
 	NO_API UGesturesDatabase(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGesturesDatabase) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGesturesDatabase); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGesturesDatabase); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGesturesDatabase); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGesturesDatabase(UGesturesDatabase&&); \
@@ -114,7 +114,7 @@ private: \
 	NO_API UGesturesDatabase(const UGesturesDatabase&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGesturesDatabase); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGesturesDatabase); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGesturesDatabase); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UGesturesDatabase)
 
 
@@ -201,7 +201,7 @@ public: \
 	NO_API UVRGestureComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGestureComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRGestureComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGestureComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGestureComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRGestureComponent(UVRGestureComponent&&); \
@@ -216,7 +216,7 @@ private: \
 	NO_API UVRGestureComponent(const UVRGestureComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRGestureComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGestureComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGestureComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGestureComponent)
 
 

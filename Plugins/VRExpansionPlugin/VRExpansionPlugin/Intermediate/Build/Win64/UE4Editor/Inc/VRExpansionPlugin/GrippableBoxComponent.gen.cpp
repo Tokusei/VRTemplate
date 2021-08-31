@@ -341,7 +341,7 @@ void EmptyLinkFunctionForGeneratedCodeGrippableBoxComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UGrippableBoxComponent, 4205373826);
+	IMPLEMENT_CLASS(UGrippableBoxComponent, 3517556115);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UGrippableBoxComponent>()
 	{
 		return UGrippableBoxComponent::StaticClass();

@@ -125,7 +125,7 @@ static struct FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceConnect
 {
 	FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceConnection()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("SubstanceConnection")),new UScriptStruct::TCppStructOps<FSubstanceConnection>);
+		UScriptStruct::DeferCppStructOps<FSubstanceConnection>(FName(TEXT("SubstanceConnection")));
 	}
 } ScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceConnection;
 	struct Z_Construct_UScriptStruct_FSubstanceConnection_Statics

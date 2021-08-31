@@ -1,4 +1,4 @@
-// PCH for D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceEditor\Private\SubstanceEditorPrivatePCH.h
+// PCH for D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Source\SubstanceEditor\Private\SubstanceEditorPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -292,4 +292,4 @@
 #define SUBSTANCEEDITOR_API DLLEXPORT
 #define EDITORWIDGETS_API DLLIMPORT
 #define TEXTUREEDITOR_API DLLIMPORT
-#include "D:/Rayscape/Rayscape/Plugins/Substance/Source/SubstanceEditor/Private/SubstanceEditorPrivatePCH.h"
+#include "D:/Rayscape/Rayscape/Plugins/Runtime/Substance/Source/SubstanceEditor/Private/SubstanceEditorPrivatePCH.h"

@@ -40,7 +40,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPGS_Interac
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPGS_InteractionSettings()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPGS_InteractionSettings")),new UScriptStruct::TCppStructOps<FBPGS_InteractionSettings>);
+		UScriptStruct::DeferCppStructOps<FBPGS_InteractionSettings>(FName(TEXT("BPGS_InteractionSettings")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPGS_InteractionSettings;
 	struct Z_Construct_UScriptStruct_FBPGS_InteractionSettings_Statics

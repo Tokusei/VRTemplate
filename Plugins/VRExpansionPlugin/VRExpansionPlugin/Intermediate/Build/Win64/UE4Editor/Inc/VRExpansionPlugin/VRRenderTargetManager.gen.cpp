@@ -114,7 +114,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFClientRepDat
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFClientRepData()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("ClientRepData")),new UScriptStruct::TCppStructOps<FClientRepData>);
+		UScriptStruct::DeferCppStructOps<FClientRepData>(FName(TEXT("ClientRepData")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFClientRepData;
 	struct Z_Construct_UScriptStruct_FClientRepData_Statics
@@ -239,7 +239,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderManage
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderManagerOperation()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("RenderManagerOperation")),new UScriptStruct::TCppStructOps<FRenderManagerOperation>);
+		UScriptStruct::DeferCppStructOps<FRenderManagerOperation>(FName(TEXT("RenderManagerOperation")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderManagerOperation;
 	struct Z_Construct_UScriptStruct_FRenderManagerOperation_Statics
@@ -415,7 +415,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderManage
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderManagerTri()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("RenderManagerTri")),new UScriptStruct::TCppStructOps<FRenderManagerTri>);
+		UScriptStruct::DeferCppStructOps<FRenderManagerTri>(FName(TEXT("RenderManagerTri")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderManagerTri;
 	struct Z_Construct_UScriptStruct_FRenderManagerTri_Statics
@@ -483,7 +483,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderDataSt
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderDataStore()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("RenderDataStore")),new UScriptStruct::TCppStructOps<FRenderDataStore>);
+		UScriptStruct::DeferCppStructOps<FRenderDataStore>(FName(TEXT("RenderDataStore")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRenderDataStore;
 	struct Z_Construct_UScriptStruct_FRenderDataStore_Statics
@@ -551,7 +551,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRReplicat
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRReplicatedTextureStore()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPVRReplicatedTextureStore")),new UScriptStruct::TCppStructOps<FBPVRReplicatedTextureStore>);
+		UScriptStruct::DeferCppStructOps<FBPVRReplicatedTextureStore>(FName(TEXT("BPVRReplicatedTextureStore")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRReplicatedTextureStore;
 	struct Z_Construct_UScriptStruct_FBPVRReplicatedTextureStore_Statics
@@ -1231,7 +1231,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRReplicat
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ARenderTargetReplicationProxy, 3696015745);
+	IMPLEMENT_CLASS(ARenderTargetReplicationProxy, 4293055702);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<ARenderTargetReplicationProxy>()
 	{
 		return ARenderTargetReplicationProxy::StaticClass();

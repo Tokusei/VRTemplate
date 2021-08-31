@@ -192,7 +192,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRReplicated
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRReplicatedCapsuleHeight()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRReplicatedCapsuleHeight")),new UScriptStruct::TCppStructOps<FVRReplicatedCapsuleHeight>);
+		UScriptStruct::DeferCppStructOps<FVRReplicatedCapsuleHeight>(FName(TEXT("VRReplicatedCapsuleHeight")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRReplicatedCapsuleHeight;
 	struct Z_Construct_UScriptStruct_FVRReplicatedCapsuleHeight_Statics
@@ -274,7 +274,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRSeatedChar
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRSeatedCharacterInfo()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRSeatedCharacterInfo")),new UScriptStruct::TCppStructOps<FVRSeatedCharacterInfo>);
+		UScriptStruct::DeferCppStructOps<FVRSeatedCharacterInfo>(FName(TEXT("VRSeatedCharacterInfo")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRSeatedCharacterInfo;
 	struct Z_Construct_UScriptStruct_FVRSeatedCharacterInfo_Statics
@@ -497,7 +497,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepMovementV
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepMovementVRCharacter()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("RepMovementVRCharacter")),new UScriptStruct::TCppStructOps<FRepMovementVRCharacter>);
+		UScriptStruct::DeferCppStructOps<FRepMovementVRCharacter>(FName(TEXT("RepMovementVRCharacter")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepMovementVRCharacter;
 	struct Z_Construct_UScriptStruct_FRepMovementVRCharacter_Statics
@@ -2837,7 +2837,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepMovementV
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AVRBaseCharacter, 2498799231);
+	IMPLEMENT_CLASS(AVRBaseCharacter, 2351372576);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AVRBaseCharacter>()
 	{
 		return AVRBaseCharacter::StaticClass();

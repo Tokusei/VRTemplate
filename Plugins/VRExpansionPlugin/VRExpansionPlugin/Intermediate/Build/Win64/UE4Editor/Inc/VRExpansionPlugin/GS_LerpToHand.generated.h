@@ -46,7 +46,7 @@ public: \
 	NO_API UGS_LerpToHand(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_LerpToHand) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_LerpToHand); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_LerpToHand); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_LerpToHand); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGS_LerpToHand(UGS_LerpToHand&&); \
@@ -61,7 +61,7 @@ private: \
 	NO_API UGS_LerpToHand(const UGS_LerpToHand&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_LerpToHand); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_LerpToHand); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_LerpToHand); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_LerpToHand)
 
 

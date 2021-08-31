@@ -94,7 +94,7 @@ void EmptyLinkFunctionForGeneratedCodeVRPlayerStart() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AVRPlayerStart, 3738209437);
+	IMPLEMENT_CLASS(AVRPlayerStart, 193189625);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AVRPlayerStart>()
 	{
 		return AVRPlayerStart::StaticClass();

@@ -1312,7 +1312,7 @@ static struct FScriptStruct_OpenVRExpansionPlugin_StaticRegisterNativesFBPOpenVR
 {
 	FScriptStruct_OpenVRExpansionPlugin_StaticRegisterNativesFBPOpenVRCameraHandle()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPOpenVRCameraHandle")),new UScriptStruct::TCppStructOps<FBPOpenVRCameraHandle>);
+		UScriptStruct::DeferCppStructOps<FBPOpenVRCameraHandle>(FName(TEXT("BPOpenVRCameraHandle")));
 	}
 } ScriptStruct_OpenVRExpansionPlugin_StaticRegisterNativesFBPOpenVRCameraHandle;
 	struct Z_Construct_UScriptStruct_FBPOpenVRCameraHandle_Statics

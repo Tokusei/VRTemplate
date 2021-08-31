@@ -39,7 +39,7 @@ public: \
 	NO_API AVRSimpleCharacter(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVRSimpleCharacter) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AVRSimpleCharacter); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRSimpleCharacter); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRSimpleCharacter); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AVRSimpleCharacter(AVRSimpleCharacter&&); \
@@ -54,7 +54,7 @@ private: \
 	NO_API AVRSimpleCharacter(const AVRSimpleCharacter&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AVRSimpleCharacter); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRSimpleCharacter); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRSimpleCharacter); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVRSimpleCharacter)
 
 

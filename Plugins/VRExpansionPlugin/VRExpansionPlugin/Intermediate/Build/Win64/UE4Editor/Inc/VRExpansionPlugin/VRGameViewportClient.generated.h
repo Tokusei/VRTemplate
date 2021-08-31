@@ -39,7 +39,7 @@ public: \
 	NO_API UVRGameViewportClient(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGameViewportClient) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRGameViewportClient); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGameViewportClient); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGameViewportClient); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRGameViewportClient(UVRGameViewportClient&&); \
@@ -56,7 +56,7 @@ private: \
 	NO_API UVRGameViewportClient(const UVRGameViewportClient&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRGameViewportClient); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGameViewportClient); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRGameViewportClient); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRGameViewportClient)
 
 

@@ -102,7 +102,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRInteract
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRInteractibleBaseData()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPVRInteractibleBaseData")),new UScriptStruct::TCppStructOps<FBPVRInteractibleBaseData>);
+		UScriptStruct::DeferCppStructOps<FBPVRInteractibleBaseData>(FName(TEXT("BPVRInteractibleBaseData")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRInteractibleBaseData;
 	struct Z_Construct_UScriptStruct_FBPVRInteractibleBaseData_Statics

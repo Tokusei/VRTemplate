@@ -7,9 +7,9 @@
 			"SteamVRKeyboardComponent.cpp.obj"
 		],
 		"Module.OpenVRExpansionPlugin.gen.cpp.obj": [
+			"SteamVRKeyboardComponent.gen.cpp.obj",
 			"OpenVRExpansionFunctionLibrary.gen.cpp.obj",
-			"OpenVRExpansionPlugin.init.gen.cpp.obj",
-			"SteamVRKeyboardComponent.gen.cpp.obj"
+			"OpenVRExpansionPlugin.init.gen.cpp.obj"
 		]
 	}
 }

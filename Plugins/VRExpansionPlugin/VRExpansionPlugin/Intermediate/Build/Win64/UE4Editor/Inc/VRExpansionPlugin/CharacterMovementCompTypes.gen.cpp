@@ -249,7 +249,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRConditiona
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRConditionalMoveRep2()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRConditionalMoveRep2")),new UScriptStruct::TCppStructOps<FVRConditionalMoveRep2>);
+		UScriptStruct::DeferCppStructOps<FVRConditionalMoveRep2>(FName(TEXT("VRConditionalMoveRep2")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRConditionalMoveRep2;
 	struct Z_Construct_UScriptStruct_FVRConditionalMoveRep2_Statics
@@ -380,7 +380,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRConditiona
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRConditionalMoveRep()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRConditionalMoveRep")),new UScriptStruct::TCppStructOps<FVRConditionalMoveRep>);
+		UScriptStruct::DeferCppStructOps<FVRConditionalMoveRep>(FName(TEXT("VRConditionalMoveRep")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRConditionalMoveRep;
 	struct Z_Construct_UScriptStruct_FVRConditionalMoveRep_Statics
@@ -484,7 +484,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRMoveAction
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRMoveActionArray()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRMoveActionArray")),new UScriptStruct::TCppStructOps<FVRMoveActionArray>);
+		UScriptStruct::DeferCppStructOps<FVRMoveActionArray>(FName(TEXT("VRMoveActionArray")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRMoveActionArray;
 	struct Z_Construct_UScriptStruct_FVRMoveActionArray_Statics
@@ -569,7 +569,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRMoveAction
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRMoveActionContainer()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRMoveActionContainer")),new UScriptStruct::TCppStructOps<FVRMoveActionContainer>);
+		UScriptStruct::DeferCppStructOps<FVRMoveActionContainer>(FName(TEXT("VRMoveActionContainer")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRMoveActionContainer;
 	struct Z_Construct_UScriptStruct_FVRMoveActionContainer_Statics

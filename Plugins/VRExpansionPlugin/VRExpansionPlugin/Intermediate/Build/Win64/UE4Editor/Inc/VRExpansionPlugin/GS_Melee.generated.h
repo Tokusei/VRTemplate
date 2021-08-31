@@ -127,7 +127,7 @@ public: \
 	NO_API UGS_Melee(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_Melee) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_Melee); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_Melee); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_Melee); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGS_Melee(UGS_Melee&&); \
@@ -142,7 +142,7 @@ private: \
 	NO_API UGS_Melee(const UGS_Melee&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_Melee); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_Melee); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_Melee); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_Melee)
 
 

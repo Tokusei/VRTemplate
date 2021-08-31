@@ -39,7 +39,7 @@ public: \
 	NO_API AGrippableCharacter(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGrippableCharacter) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGrippableCharacter); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGrippableCharacter); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGrippableCharacter); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AGrippableCharacter(AGrippableCharacter&&); \
@@ -54,7 +54,7 @@ private: \
 	NO_API AGrippableCharacter(const AGrippableCharacter&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGrippableCharacter); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGrippableCharacter); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGrippableCharacter); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGrippableCharacter)
 
 

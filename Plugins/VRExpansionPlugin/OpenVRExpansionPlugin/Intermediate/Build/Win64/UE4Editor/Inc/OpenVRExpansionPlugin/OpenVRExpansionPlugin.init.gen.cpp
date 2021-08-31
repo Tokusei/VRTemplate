@@ -27,7 +27,7 @@ void EmptyLinkFunctionForGeneratedCodeOpenVRExpansionPlugin_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x5D136524,
+				0xF46E6437,
 				0x15EF0315,
 				METADATA_PARAMS(nullptr, 0)
 			};

@@ -39,7 +39,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepAttachmen
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepAttachmentWithWeld()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("RepAttachmentWithWeld")),new UScriptStruct::TCppStructOps<FRepAttachmentWithWeld>);
+		UScriptStruct::DeferCppStructOps<FRepAttachmentWithWeld>(FName(TEXT("RepAttachmentWithWeld")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFRepAttachmentWithWeld;
 	struct Z_Construct_UScriptStruct_FRepAttachmentWithWeld_Statics

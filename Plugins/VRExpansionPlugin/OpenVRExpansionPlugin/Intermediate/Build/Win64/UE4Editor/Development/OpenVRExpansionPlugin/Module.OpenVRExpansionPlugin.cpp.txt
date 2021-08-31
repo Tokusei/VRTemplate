@@ -3,54 +3,35 @@ D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Source/Open
 D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Source\OpenVRExpansionPlugin\Public\OpenVRExpansionFunctionLibrary.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
 D:\UnrealEngine-OculusBranch\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
 D:\UnrealEngine-OculusBranch\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
 D:\UnrealEngine-OculusBranch\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
 D:\UnrealEngine-OculusBranch\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\KismetProceduralMeshLibrary.h
 D:\UnrealEngine-OculusBranch\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\KismetProceduralMeshLibrary.generated.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
-d:\unrealengine-oculusbranch\engine\source\runtime\headmounteddisplay\public\HeadMountedDisplayTypes.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
 D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
-d:\unrealengine-oculusbranch\engine\source\runtime\headmounteddisplay\public\IIdentifiableXRDevice.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
 D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
-d:\unrealengine-oculusbranch\engine\source\runtime\headmounteddisplay\public\XRGestureConfig.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
 D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
 D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\IHeadMountedDisplay.h
-d:\unrealengine-oculusbranch\engine\source\runtime\headmounteddisplay\public\LateUpdateManager.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\LateUpdateManager.h
 D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\OpenVRExpansionPlugin\OpenVRExpansionFunctionLibrary.generated.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\Rendering/Texture2DResource.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\Rendering/StreamableTextureResource.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRTrackingSystem.h
-d:\unrealengine-oculusbranch\engine\source\runtime\headmounteddisplay\public\IXRInput.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\HeadMountedDisplay\Public\IXRInput.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Editor/UnrealEd/Classes/Editor/EditorEngine.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Editor\UnrealEd\Classes\Editor/Transactor.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSerializedPropertyChain.h

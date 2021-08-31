@@ -122,7 +122,7 @@ public: \
 	NO_API UVRSliderComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRSliderComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRSliderComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRSliderComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRSliderComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRSliderComponent(UVRSliderComponent&&); \
@@ -137,7 +137,7 @@ private: \
 	NO_API UVRSliderComponent(const UVRSliderComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRSliderComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRSliderComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRSliderComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRSliderComponent)
 
 

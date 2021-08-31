@@ -126,7 +126,7 @@ static struct FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceInstanc
 {
 	FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceInstanceDesc()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("SubstanceInstanceDesc")),new UScriptStruct::TCppStructOps<FSubstanceInstanceDesc>);
+		UScriptStruct::DeferCppStructOps<FSubstanceInstanceDesc>(FName(TEXT("SubstanceInstanceDesc")));
 	}
 } ScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceInstanceDesc;
 	struct Z_Construct_UScriptStruct_FSubstanceInstanceDesc_Statics
@@ -228,7 +228,7 @@ static struct FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceFloatIn
 {
 	FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceFloatInputDesc()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("SubstanceFloatInputDesc")),new UScriptStruct::TCppStructOps<FSubstanceFloatInputDesc>);
+		UScriptStruct::DeferCppStructOps<FSubstanceFloatInputDesc>(FName(TEXT("SubstanceFloatInputDesc")));
 	}
 } ScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceFloatInputDesc;
 	struct Z_Construct_UScriptStruct_FSubstanceFloatInputDesc_Statics
@@ -348,7 +348,7 @@ static struct FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceIntInpu
 {
 	FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceIntInputDesc()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("SubstanceIntInputDesc")),new UScriptStruct::TCppStructOps<FSubstanceIntInputDesc>);
+		UScriptStruct::DeferCppStructOps<FSubstanceIntInputDesc>(FName(TEXT("SubstanceIntInputDesc")));
 	}
 } ScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceIntInputDesc;
 	struct Z_Construct_UScriptStruct_FSubstanceIntInputDesc_Statics
@@ -465,7 +465,7 @@ static struct FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceInputDe
 {
 	FScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceInputDesc()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("SubstanceInputDesc")),new UScriptStruct::TCppStructOps<FSubstanceInputDesc>);
+		UScriptStruct::DeferCppStructOps<FSubstanceInputDesc>(FName(TEXT("SubstanceInputDesc")));
 	}
 } ScriptStruct_SubstanceCore_StaticRegisterNativesFSubstanceInputDesc;
 	struct Z_Construct_UScriptStruct_FSubstanceInputDesc_Statics

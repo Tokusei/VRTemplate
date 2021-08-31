@@ -127,7 +127,7 @@ public: \
 	NO_API UOpenVRExpansionFunctionLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOpenVRExpansionFunctionLibrary) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOpenVRExpansionFunctionLibrary); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOpenVRExpansionFunctionLibrary); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOpenVRExpansionFunctionLibrary); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UOpenVRExpansionFunctionLibrary(UOpenVRExpansionFunctionLibrary&&); \
@@ -142,7 +142,7 @@ private: \
 	NO_API UOpenVRExpansionFunctionLibrary(const UOpenVRExpansionFunctionLibrary&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOpenVRExpansionFunctionLibrary); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOpenVRExpansionFunctionLibrary); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOpenVRExpansionFunctionLibrary); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOpenVRExpansionFunctionLibrary)
 
 

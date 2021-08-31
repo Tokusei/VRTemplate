@@ -342,7 +342,7 @@ void EmptyLinkFunctionForGeneratedCodeGrippableSkeletalMeshComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UGrippableSkeletalMeshComponent, 3772011778);
+	IMPLEMENT_CLASS(UGrippableSkeletalMeshComponent, 2398157105);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UGrippableSkeletalMeshComponent>()
 	{
 		return UGrippableSkeletalMeshComponent::StaticClass();

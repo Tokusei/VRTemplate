@@ -56,7 +56,7 @@ public: \
 	NO_API UVRLogComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRLogComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRLogComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRLogComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRLogComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRLogComponent(UVRLogComponent&&); \
@@ -71,7 +71,7 @@ private: \
 	NO_API UVRLogComponent(const UVRLogComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRLogComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRLogComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRLogComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRLogComponent)
 
 

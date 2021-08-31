@@ -91,7 +91,7 @@ void EmptyLinkFunctionForGeneratedCodeVRCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AVRCharacter, 558250238);
+	IMPLEMENT_CLASS(AVRCharacter, 170835426);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AVRCharacter>()
 	{
 		return AVRCharacter::StaticClass();

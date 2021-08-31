@@ -39,7 +39,7 @@ public: \
 	NO_API UGS_Default(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_Default) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_Default); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_Default); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_Default); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGS_Default(UGS_Default&&); \
@@ -54,7 +54,7 @@ private: \
 	NO_API UGS_Default(const UGS_Default&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_Default); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_Default); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_Default); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_Default)
 
 
@@ -112,7 +112,7 @@ public: \
 	NO_API UGS_ExtendedDefault(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_ExtendedDefault) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_ExtendedDefault); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_ExtendedDefault); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_ExtendedDefault); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGS_ExtendedDefault(UGS_ExtendedDefault&&); \
@@ -129,7 +129,7 @@ private: \
 	NO_API UGS_ExtendedDefault(const UGS_ExtendedDefault&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGS_ExtendedDefault); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_ExtendedDefault); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGS_ExtendedDefault); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGS_ExtendedDefault)
 
 

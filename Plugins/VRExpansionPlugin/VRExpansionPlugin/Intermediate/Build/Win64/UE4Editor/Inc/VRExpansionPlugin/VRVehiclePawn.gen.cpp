@@ -197,7 +197,7 @@ void EmptyLinkFunctionForGeneratedCodeVRVehiclePawn() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AVRVehiclePawn, 3718640199);
+	IMPLEMENT_CLASS(AVRVehiclePawn, 24182129);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AVRVehiclePawn>()
 	{
 		return AVRVehiclePawn::StaticClass();

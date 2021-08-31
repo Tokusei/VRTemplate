@@ -60,7 +60,7 @@ public: \
 	NO_API UVREPhysicalAnimationComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVREPhysicalAnimationComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVREPhysicalAnimationComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVREPhysicalAnimationComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVREPhysicalAnimationComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVREPhysicalAnimationComponent(UVREPhysicalAnimationComponent&&); \
@@ -77,7 +77,7 @@ private: \
 	NO_API UVREPhysicalAnimationComponent(const UVREPhysicalAnimationComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVREPhysicalAnimationComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVREPhysicalAnimationComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVREPhysicalAnimationComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVREPhysicalAnimationComponent)
 
 

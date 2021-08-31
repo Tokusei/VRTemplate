@@ -73,7 +73,7 @@ public: \
 	NO_API UGrippableCapsuleComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrippableCapsuleComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGrippableCapsuleComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableCapsuleComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableCapsuleComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UGrippableCapsuleComponent(UGrippableCapsuleComponent&&); \
@@ -88,7 +88,7 @@ private: \
 	NO_API UGrippableCapsuleComponent(const UGrippableCapsuleComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGrippableCapsuleComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableCapsuleComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGrippableCapsuleComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UGrippableCapsuleComponent)
 
 

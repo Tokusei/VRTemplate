@@ -1,4 +1,4 @@
-// PCH for D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceCore\Private\SubstanceCorePrivatePCH.h
+// PCH for D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Source\SubstanceCore\Private\SubstanceCorePrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -294,4 +294,4 @@
 #define DESKTOPPLATFORM_API DLLIMPORT
 #define LAUNCHERPLATFORM_API DLLIMPORT
 #define MAINFRAME_API DLLIMPORT
-#include "D:/Rayscape/Rayscape/Plugins/Substance/Source/SubstanceCore/Private/SubstanceCorePrivatePCH.h"
+#include "D:/Rayscape/Rayscape/Plugins/Runtime/Substance/Source/SubstanceCore/Private/SubstanceCorePrivatePCH.h"

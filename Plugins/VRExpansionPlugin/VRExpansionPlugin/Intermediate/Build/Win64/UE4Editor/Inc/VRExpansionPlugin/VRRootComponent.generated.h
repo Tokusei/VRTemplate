@@ -53,7 +53,7 @@ public: \
 	NO_API UVRRootComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRRootComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRRootComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRRootComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRRootComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRRootComponent(UVRRootComponent&&); \
@@ -68,7 +68,7 @@ private: \
 	NO_API UVRRootComponent(const UVRRootComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRRootComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRRootComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRRootComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRRootComponent)
 
 

@@ -140,7 +140,7 @@ void EmptyLinkFunctionForGeneratedCodeSubstanceTexture2D() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(USubstanceTexture2D, 70510676);
+	IMPLEMENT_CLASS(USubstanceTexture2D, 3282691679);
 	template<> SUBSTANCECORE_API UClass* StaticClass<USubstanceTexture2D>()
 	{
 		return USubstanceTexture2D::StaticClass();

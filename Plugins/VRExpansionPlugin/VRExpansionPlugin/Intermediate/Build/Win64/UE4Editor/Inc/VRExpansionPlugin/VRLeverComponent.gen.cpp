@@ -1393,7 +1393,7 @@ void EmptyLinkFunctionForGeneratedCodeVRLeverComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UVRLeverComponent, 3774270579);
+	IMPLEMENT_CLASS(UVRLeverComponent, 1024305371);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UVRLeverComponent>()
 	{
 		return UVRLeverComponent::StaticClass();

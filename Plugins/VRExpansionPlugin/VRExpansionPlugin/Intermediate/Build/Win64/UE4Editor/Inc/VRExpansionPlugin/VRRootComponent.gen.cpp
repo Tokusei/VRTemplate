@@ -409,7 +409,7 @@ void EmptyLinkFunctionForGeneratedCodeVRRootComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UVRRootComponent, 3700329579);
+	IMPLEMENT_CLASS(UVRRootComponent, 3123585930);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UVRRootComponent>()
 	{
 		return UVRRootComponent::StaticClass();

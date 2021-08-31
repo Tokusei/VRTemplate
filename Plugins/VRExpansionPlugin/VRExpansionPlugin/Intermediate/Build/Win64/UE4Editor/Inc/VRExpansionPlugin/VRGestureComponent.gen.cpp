@@ -220,7 +220,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGestureSpl
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGestureSplineDraw()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRGestureSplineDraw")),new UScriptStruct::TCppStructOps<FVRGestureSplineDraw>);
+		UScriptStruct::DeferCppStructOps<FVRGestureSplineDraw>(FName(TEXT("VRGestureSplineDraw")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGestureSplineDraw;
 	struct Z_Construct_UScriptStruct_FVRGestureSplineDraw_Statics
@@ -320,7 +320,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGesture
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGesture()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRGesture")),new UScriptStruct::TCppStructOps<FVRGesture>);
+		UScriptStruct::DeferCppStructOps<FVRGesture>(FName(TEXT("VRGesture")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGesture;
 	struct Z_Construct_UScriptStruct_FVRGesture_Statics
@@ -462,7 +462,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGestureSet
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGestureSettings()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("VRGestureSettings")),new UScriptStruct::TCppStructOps<FVRGestureSettings>);
+		UScriptStruct::DeferCppStructOps<FVRGestureSettings>(FName(TEXT("VRGestureSettings")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFVRGestureSettings;
 	struct Z_Construct_UScriptStruct_FVRGestureSettings_Statics

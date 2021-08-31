@@ -1,4 +1,4 @@
-// PCH for D:\Rayscape\Rayscape\Plugins\Substance\Source\SubstanceLink\Private\SubstanceLinkPrivatePCH.h
+// PCH for D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Source\SubstanceLink\Private\SubstanceLinkPrivatePCH.h
 #define IS_PROGRAM 0
 #define UE_EDITOR 1
 #define ENABLE_PGO_PROFILE 0
@@ -283,4 +283,4 @@
 #define MAINFRAME_API DLLIMPORT
 #define TEXTUREEDITOR_API DLLIMPORT
 #define SUBSTANCELINK_API DLLEXPORT
-#include "D:/Rayscape/Rayscape/Plugins/Substance/Source/SubstanceLink/Private/SubstanceLinkPrivatePCH.h"
+#include "D:/Rayscape/Rayscape/Plugins/Runtime/Substance/Source/SubstanceLink/Private/SubstanceLinkPrivatePCH.h"

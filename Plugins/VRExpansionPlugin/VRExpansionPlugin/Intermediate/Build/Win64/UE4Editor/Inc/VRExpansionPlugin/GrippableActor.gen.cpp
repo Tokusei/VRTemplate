@@ -696,7 +696,7 @@ void EmptyLinkFunctionForGeneratedCodeGrippableActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AGrippableActor, 3369365424);
+	IMPLEMENT_CLASS(AGrippableActor, 4136805409);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AGrippableActor>()
 	{
 		return AGrippableActor::StaticClass();

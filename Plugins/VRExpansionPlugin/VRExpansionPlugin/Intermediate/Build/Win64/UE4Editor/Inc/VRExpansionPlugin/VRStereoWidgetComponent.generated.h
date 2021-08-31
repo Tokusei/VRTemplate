@@ -48,7 +48,7 @@ public: \
 	NO_API UVRStereoWidgetRenderComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRStereoWidgetRenderComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRStereoWidgetRenderComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRStereoWidgetRenderComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRStereoWidgetRenderComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRStereoWidgetRenderComponent(UVRStereoWidgetRenderComponent&&); \
@@ -63,7 +63,7 @@ private: \
 	NO_API UVRStereoWidgetRenderComponent(const UVRStereoWidgetRenderComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRStereoWidgetRenderComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRStereoWidgetRenderComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRStereoWidgetRenderComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRStereoWidgetRenderComponent)
 
 
@@ -131,7 +131,7 @@ public: \
 	NO_API UVRStereoWidgetComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRStereoWidgetComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRStereoWidgetComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRStereoWidgetComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRStereoWidgetComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVRStereoWidgetComponent(UVRStereoWidgetComponent&&); \
@@ -146,7 +146,7 @@ private: \
 	NO_API UVRStereoWidgetComponent(const UVRStereoWidgetComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVRStereoWidgetComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRStereoWidgetComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVRStereoWidgetComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVRStereoWidgetComponent)
 
 

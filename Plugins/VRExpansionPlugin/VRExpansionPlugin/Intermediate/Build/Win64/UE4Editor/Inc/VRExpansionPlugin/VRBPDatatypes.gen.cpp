@@ -681,7 +681,7 @@ void EmptyLinkFunctionForGeneratedCodeVRBPDatatypes() {}
 		return EGripCollisionType_StaticEnum();
 	}
 	static FCompiledInDeferEnum Z_CompiledInDeferEnum_UEnum_EGripCollisionType(EGripCollisionType_StaticEnum, TEXT("/Script/VRExpansionPlugin"), TEXT("EGripCollisionType"), false, nullptr, nullptr);
-	uint32 Get_Z_Construct_UEnum_VRExpansionPlugin_EGripCollisionType_Hash() { return 1646775812U; }
+	uint32 Get_Z_Construct_UEnum_VRExpansionPlugin_EGripCollisionType_Hash() { return 826269783U; }
 	UEnum* Z_Construct_UEnum_VRExpansionPlugin_EGripCollisionType()
 	{
 #if WITH_HOT_RELOAD
@@ -704,6 +704,7 @@ void EmptyLinkFunctionForGeneratedCodeVRBPDatatypes() {}
 				{ "EGripCollisionType::AttachmentGrip", (int64)EGripCollisionType::AttachmentGrip },
 				{ "EGripCollisionType::CustomGrip", (int64)EGripCollisionType::CustomGrip },
 				{ "EGripCollisionType::EventsOnly", (int64)EGripCollisionType::EventsOnly },
+				{ "EGripCollisionType::LockedConstraint", (int64)EGripCollisionType::LockedConstraint },
 			};
 #if WITH_METADATA
 			const UE4CodeGen_Private::FMetaDataPairParam Enum_MetaDataParams[] = {
@@ -730,6 +731,9 @@ void EmptyLinkFunctionForGeneratedCodeVRBPDatatypes() {}
 				{ "InteractiveHybridCollisionWithSweep.Name", "EGripCollisionType::InteractiveHybridCollisionWithSweep" },
 				{ "InteractiveHybridCollisionWithSweep.ToolTip", "Swaps back and forth between physx grip and a sweep type grip depending on if the held object will be colliding this frame or not." },
 				{ "IsBlueprintBase", "true" },
+				{ "LockedConstraint.Comment", "/** Uses a hard constraint with no softness to lock them together, best used with ConstrainToPivot enabled and a bone chain. */" },
+				{ "LockedConstraint.Name", "EGripCollisionType::LockedConstraint" },
+				{ "LockedConstraint.ToolTip", "Uses a hard constraint with no softness to lock them together, best used with ConstrainToPivot enabled and a bone chain." },
 				{ "ManipulationGrip.Comment", "/** Free constraint to controller base, no rotational drives. */" },
 				{ "ManipulationGrip.Name", "EGripCollisionType::ManipulationGrip" },
 				{ "ManipulationGrip.ToolTip", "Free constraint to controller base, no rotational drives." },
@@ -1316,7 +1320,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvancedPh
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvancedPhysicsHandleSettings()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPAdvancedPhysicsHandleSettings")),new UScriptStruct::TCppStructOps<FBPAdvancedPhysicsHandleSettings>);
+		UScriptStruct::DeferCppStructOps<FBPAdvancedPhysicsHandleSettings>(FName(TEXT("BPAdvancedPhysicsHandleSettings")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvancedPhysicsHandleSettings;
 	struct Z_Construct_UScriptStruct_FBPAdvancedPhysicsHandleSettings_Statics
@@ -1473,7 +1477,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvancedPh
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvancedPhysicsHandleAxisSettings()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPAdvancedPhysicsHandleAxisSettings")),new UScriptStruct::TCppStructOps<FBPAdvancedPhysicsHandleAxisSettings>);
+		UScriptStruct::DeferCppStructOps<FBPAdvancedPhysicsHandleAxisSettings>(FName(TEXT("BPAdvancedPhysicsHandleAxisSettings")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvancedPhysicsHandleAxisSettings;
 	struct Z_Construct_UScriptStruct_FBPAdvancedPhysicsHandleAxisSettings_Statics
@@ -1632,7 +1636,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPActorPhysi
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPActorPhysicsHandleInformation()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPActorPhysicsHandleInformation")),new UScriptStruct::TCppStructOps<FBPActorPhysicsHandleInformation>);
+		UScriptStruct::DeferCppStructOps<FBPActorPhysicsHandleInformation>(FName(TEXT("BPActorPhysicsHandleInformation")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPActorPhysicsHandleInformation;
 	struct Z_Construct_UScriptStruct_FBPActorPhysicsHandleInformation_Statics
@@ -1717,7 +1721,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPInterfaceP
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPInterfaceProperties()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPInterfaceProperties")),new UScriptStruct::TCppStructOps<FBPInterfaceProperties>);
+		UScriptStruct::DeferCppStructOps<FBPInterfaceProperties>(FName(TEXT("BPInterfaceProperties")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPInterfaceProperties;
 	struct Z_Construct_UScriptStruct_FBPInterfaceProperties_Statics
@@ -2035,7 +2039,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPGripPair
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPGripPair()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPGripPair")),new UScriptStruct::TCppStructOps<FBPGripPair>);
+		UScriptStruct::DeferCppStructOps<FBPGripPair>(FName(TEXT("BPGripPair")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPGripPair;
 	struct Z_Construct_UScriptStruct_FBPGripPair_Statics
@@ -2133,7 +2137,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPActorGripI
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPActorGripInformation()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPActorGripInformation")),new UScriptStruct::TCppStructOps<FBPActorGripInformation>);
+		UScriptStruct::DeferCppStructOps<FBPActorGripInformation>(FName(TEXT("BPActorGripInformation")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPActorGripInformation;
 	struct Z_Construct_UScriptStruct_FBPActorGripInformation_Statics
@@ -2529,7 +2533,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPSecondaryG
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPSecondaryGripInfo()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPSecondaryGripInfo")),new UScriptStruct::TCppStructOps<FBPSecondaryGripInfo>);
+		UScriptStruct::DeferCppStructOps<FBPSecondaryGripInfo>(FName(TEXT("BPSecondaryGripInfo")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPSecondaryGripInfo;
 	struct Z_Construct_UScriptStruct_FBPSecondaryGripInfo_Statics
@@ -2702,7 +2706,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvGripSet
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvGripSettings()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPAdvGripSettings")),new UScriptStruct::TCppStructOps<FBPAdvGripSettings>);
+		UScriptStruct::DeferCppStructOps<FBPAdvGripSettings>(FName(TEXT("BPAdvGripSettings")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvGripSettings;
 	struct Z_Construct_UScriptStruct_FBPAdvGripSettings_Statics
@@ -2820,7 +2824,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvGripPhy
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvGripPhysicsSettings()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPAdvGripPhysicsSettings")),new UScriptStruct::TCppStructOps<FBPAdvGripPhysicsSettings>);
+		UScriptStruct::DeferCppStructOps<FBPAdvGripPhysicsSettings>(FName(TEXT("BPAdvGripPhysicsSettings")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPAdvGripPhysicsSettings;
 	struct Z_Construct_UScriptStruct_FBPAdvGripPhysicsSettings_Statics
@@ -3074,7 +3078,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRComponen
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRComponentPosRep()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPVRComponentPosRep")),new UScriptStruct::TCppStructOps<FBPVRComponentPosRep>);
+		UScriptStruct::DeferCppStructOps<FBPVRComponentPosRep>(FName(TEXT("BPVRComponentPosRep")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRComponentPosRep;
 	struct Z_Construct_UScriptStruct_FBPVRComponentPosRep_Statics
@@ -3204,7 +3208,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFTransform_Ne
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFTransform_NetQuantize()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("Transform_NetQuantize")),new UScriptStruct::TCppStructOps<FTransform_NetQuantize>);
+		UScriptStruct::DeferCppStructOps<FTransform_NetQuantize>(FName(TEXT("Transform_NetQuantize")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFTransform_NetQuantize;
 	struct Z_Construct_UScriptStruct_FTransform_NetQuantize_Statics
@@ -3278,7 +3282,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPLowPassPea
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPLowPassPeakFilter()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPLowPassPeakFilter")),new UScriptStruct::TCppStructOps<FBPLowPassPeakFilter>);
+		UScriptStruct::DeferCppStructOps<FBPLowPassPeakFilter>(FName(TEXT("BPLowPassPeakFilter")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPLowPassPeakFilter;
 	struct Z_Construct_UScriptStruct_FBPLowPassPeakFilter_Statics
@@ -3382,7 +3386,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPas
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPassFilterTrans()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPEuroLowPassFilterTrans")),new UScriptStruct::TCppStructOps<FBPEuroLowPassFilterTrans>);
+		UScriptStruct::DeferCppStructOps<FBPEuroLowPassFilterTrans>(FName(TEXT("BPEuroLowPassFilterTrans")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPassFilterTrans;
 	struct Z_Construct_UScriptStruct_FBPEuroLowPassFilterTrans_Statics
@@ -3499,7 +3503,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPas
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPassFilterQuat()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPEuroLowPassFilterQuat")),new UScriptStruct::TCppStructOps<FBPEuroLowPassFilterQuat>);
+		UScriptStruct::DeferCppStructOps<FBPEuroLowPassFilterQuat>(FName(TEXT("BPEuroLowPassFilterQuat")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPassFilterQuat;
 	struct Z_Construct_UScriptStruct_FBPEuroLowPassFilterQuat_Statics
@@ -3616,7 +3620,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPas
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPassFilter()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPEuroLowPassFilter")),new UScriptStruct::TCppStructOps<FBPEuroLowPassFilter>);
+		UScriptStruct::DeferCppStructOps<FBPEuroLowPassFilter>(FName(TEXT("BPEuroLowPassFilter")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPEuroLowPassFilter;
 	struct Z_Construct_UScriptStruct_FBPEuroLowPassFilter_Statics
@@ -3733,7 +3737,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRWaistTra
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRWaistTracking_Info()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPVRWaistTracking_Info")),new UScriptStruct::TCppStructOps<FBPVRWaistTracking_Info>);
+		UScriptStruct::DeferCppStructOps<FBPVRWaistTracking_Info>(FName(TEXT("BPVRWaistTracking_Info")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRWaistTracking_Info;
 	struct Z_Construct_UScriptStruct_FBPVRWaistTracking_Info_Statics

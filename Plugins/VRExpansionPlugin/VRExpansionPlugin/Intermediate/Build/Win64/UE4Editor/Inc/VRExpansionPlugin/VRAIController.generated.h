@@ -39,7 +39,7 @@ public: \
 	NO_API AVRAIController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVRAIController) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AVRAIController); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRAIController); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRAIController); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AVRAIController(AVRAIController&&); \
@@ -56,7 +56,7 @@ private: \
 	NO_API AVRAIController(const AVRAIController&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AVRAIController); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRAIController); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRAIController); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVRAIController)
 
 
@@ -114,7 +114,7 @@ public: \
 	NO_API AVRDetourCrowdAIController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVRDetourCrowdAIController) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AVRDetourCrowdAIController); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRDetourCrowdAIController); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRDetourCrowdAIController); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AVRDetourCrowdAIController(AVRDetourCrowdAIController&&); \
@@ -129,7 +129,7 @@ private: \
 	NO_API AVRDetourCrowdAIController(const AVRDetourCrowdAIController&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AVRDetourCrowdAIController); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRDetourCrowdAIController); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRDetourCrowdAIController); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVRDetourCrowdAIController)
 
 

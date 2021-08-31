@@ -306,7 +306,7 @@ void EmptyLinkFunctionForGeneratedCodeReplicatedVRCameraComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UReplicatedVRCameraComponent, 1821956490);
+	IMPLEMENT_CLASS(UReplicatedVRCameraComponent, 2374140680);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UReplicatedVRCameraComponent>()
 	{
 		return UReplicatedVRCameraComponent::StaticClass();

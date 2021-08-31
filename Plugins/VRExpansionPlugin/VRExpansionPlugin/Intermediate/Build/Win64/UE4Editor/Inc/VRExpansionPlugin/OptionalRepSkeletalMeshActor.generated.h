@@ -61,7 +61,7 @@ public: \
 	NO_API UNoRepSphereComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UNoRepSphereComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UNoRepSphereComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNoRepSphereComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNoRepSphereComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UNoRepSphereComponent(UNoRepSphereComponent&&); \
@@ -76,7 +76,7 @@ private: \
 	NO_API UNoRepSphereComponent(const UNoRepSphereComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UNoRepSphereComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNoRepSphereComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UNoRepSphereComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UNoRepSphereComponent)
 
 
@@ -148,7 +148,7 @@ public: \
 	NO_API UInversePhysicsSkeletalMeshComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UInversePhysicsSkeletalMeshComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UInversePhysicsSkeletalMeshComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UInversePhysicsSkeletalMeshComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UInversePhysicsSkeletalMeshComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UInversePhysicsSkeletalMeshComponent(UInversePhysicsSkeletalMeshComponent&&); \
@@ -163,7 +163,7 @@ private: \
 	NO_API UInversePhysicsSkeletalMeshComponent(const UInversePhysicsSkeletalMeshComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UInversePhysicsSkeletalMeshComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UInversePhysicsSkeletalMeshComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UInversePhysicsSkeletalMeshComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UInversePhysicsSkeletalMeshComponent)
 
 
@@ -237,7 +237,7 @@ public: \
 	NO_API AOptionalRepGrippableSkeletalMeshActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AOptionalRepGrippableSkeletalMeshActor) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AOptionalRepGrippableSkeletalMeshActor); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AOptionalRepGrippableSkeletalMeshActor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AOptionalRepGrippableSkeletalMeshActor); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AOptionalRepGrippableSkeletalMeshActor(AOptionalRepGrippableSkeletalMeshActor&&); \
@@ -252,7 +252,7 @@ private: \
 	NO_API AOptionalRepGrippableSkeletalMeshActor(const AOptionalRepGrippableSkeletalMeshActor&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AOptionalRepGrippableSkeletalMeshActor); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AOptionalRepGrippableSkeletalMeshActor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AOptionalRepGrippableSkeletalMeshActor); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AOptionalRepGrippableSkeletalMeshActor)
 
 

@@ -109,7 +109,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRHandPose
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRHandPoseBonePair()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPVRHandPoseBonePair")),new UScriptStruct::TCppStructOps<FBPVRHandPoseBonePair>);
+		UScriptStruct::DeferCppStructOps<FBPVRHandPoseBonePair>(FName(TEXT("BPVRHandPoseBonePair")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRHandPoseBonePair;
 	struct Z_Construct_UScriptStruct_FBPVRHandPoseBonePair_Statics
@@ -599,6 +599,11 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRHandPose
 		static void NewProp_bAlwaysInRange_SetBit(void* Obj);
 		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bAlwaysInRange;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_bMatchRotation_MetaData[];
+#endif
+		static void NewProp_bMatchRotation_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bMatchRotation;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_OverrideDistance_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_OverrideDistance;
@@ -800,6 +805,19 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRHandPose
 	}
 	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bAlwaysInRange = { "bAlwaysInRange", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UHandSocketComponent), &Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bAlwaysInRange_SetBit, METADATA_PARAMS(Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bAlwaysInRange_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bAlwaysInRange_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bMatchRotation_MetaData[] = {
+		{ "Category", "Hand Socket Data" },
+		{ "Comment", "// If true and there are multiple hand socket components in range with this setting\n// Then the default behavior will compare closest rotation on them all to pick one\n" },
+		{ "ModuleRelativePath", "Public/Grippables/HandSocketComponent.h" },
+		{ "ToolTip", "If true and there are multiple hand socket components in range with this setting\nThen the default behavior will compare closest rotation on them all to pick one" },
+	};
+#endif
+	void Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bMatchRotation_SetBit(void* Obj)
+	{
+		((UHandSocketComponent*)Obj)->bMatchRotation = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bMatchRotation = { "bMatchRotation", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UHandSocketComponent), &Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bMatchRotation_SetBit, METADATA_PARAMS(Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bMatchRotation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bMatchRotation_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_OverrideDistance_MetaData[] = {
 		{ "Category", "Hand Socket Data" },
 		{ "Comment", "// Snap distance to use if you want to override the defaults.\n// Will be ignored if == 0.0f or bAlwaysInRange is true\n" },
@@ -939,6 +957,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRHandPose
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bFlipForLeftHand,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bOnlyFlipRotation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bAlwaysInRange,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bMatchRotation,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_OverrideDistance,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_bUseCustomPoseDeltas,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UHandSocketComponent_Statics::NewProp_CustomPoseDeltas_Inner,
@@ -985,7 +1004,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRHandPose
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UHandSocketComponent, 2267775038);
+	IMPLEMENT_CLASS(UHandSocketComponent, 3766494232);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UHandSocketComponent>()
 	{
 		return UHandSocketComponent::StaticClass();

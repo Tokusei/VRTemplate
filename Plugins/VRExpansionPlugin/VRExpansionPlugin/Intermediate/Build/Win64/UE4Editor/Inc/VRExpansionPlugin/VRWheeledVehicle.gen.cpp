@@ -251,7 +251,7 @@ void EmptyLinkFunctionForGeneratedCodeVRWheeledVehicle() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AVRWheeledVehicle, 824180044);
+	IMPLEMENT_CLASS(AVRWheeledVehicle, 2776283808);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AVRWheeledVehicle>()
 	{
 		return AVRWheeledVehicle::StaticClass();

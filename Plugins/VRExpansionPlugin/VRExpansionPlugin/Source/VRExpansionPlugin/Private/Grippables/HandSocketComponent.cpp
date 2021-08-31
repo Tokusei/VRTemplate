@@ -28,6 +28,7 @@ UHandSocketComponent::UHandSocketComponent(const FObjectInitializer& ObjectIniti
 
 	HandRelativePlacement = FTransform::Identity;
 	bAlwaysInRange = false;
+	bMatchRotation = false;
 	OverrideDistance = 0.0f;
 	SlotPrefix = FName("VRGripP");
 	bUseCustomPoseDeltas = false;
@@ -86,7 +87,7 @@ bool UHandSocketComponent::GetAnimationSequenceAsPoseSnapShot(UAnimSequence* InA
 			return false;
 		}
 
-		const FReferenceSkeleton& RefSkeleton = (TargetMesh) ? TargetMesh->SkeletalMesh->RefSkeleton : InAnimationSequence->GetSkeleton()->GetReferenceSkeleton();
+		const FReferenceSkeleton& RefSkeleton = (TargetMesh) ? TargetMesh->SkeletalMesh->GetRefSkeleton() : InAnimationSequence->GetSkeleton()->GetReferenceSkeleton();
 		FTransform LocalTransform;
 
 		const TArray<FTrackToSkeletonMap>& TrackMap = InAnimationSequence->GetCompressedTrackToSkeletonMapTable();
@@ -196,7 +197,7 @@ bool UHandSocketComponent::GetBlendedPoseSnapShot(FPoseSnapshot& PoseSnapShot, U
 			return false;
 		}
 
-		const FReferenceSkeleton& RefSkeleton = (TargetMesh) ? TargetMesh->SkeletalMesh->RefSkeleton : HandTargetAnimation->GetSkeleton()->GetReferenceSkeleton();
+		const FReferenceSkeleton& RefSkeleton = (TargetMesh) ? TargetMesh->SkeletalMesh->GetRefSkeleton() : HandTargetAnimation->GetSkeleton()->GetReferenceSkeleton();
 		FTransform LocalTransform;
 
 		const TArray<FTrackToSkeletonMap>& TrackMap = HandTargetAnimation->GetCompressedTrackToSkeletonMapTable();
@@ -272,13 +273,13 @@ bool UHandSocketComponent::GetBlendedPoseSnapShot(FPoseSnapshot& PoseSnapShot, U
 	}
 	else if (bUseCustomPoseDeltas && CustomPoseDeltas.Num() && TargetMesh)
 	{
-		PoseSnapShot.SkeletalMeshName = TargetMesh->SkeletalMesh->Skeleton->GetFName();
+		PoseSnapShot.SkeletalMeshName = TargetMesh->SkeletalMesh->GetSkeleton()->GetFName();
 		PoseSnapShot.SnapshotName = FName(TEXT("RawDeltaPose"));
 		PoseSnapShot.BoneNames.Empty();
 		PoseSnapShot.LocalTransforms.Empty();
 		TargetMesh->GetBoneNames(PoseSnapShot.BoneNames);
 
-		PoseSnapShot.LocalTransforms = TargetMesh->SkeletalMesh->Skeleton->GetRefLocalPoses();
+		PoseSnapShot.LocalTransforms = TargetMesh->SkeletalMesh->GetSkeleton()->GetRefLocalPoses();
 
 		FQuat DeltaQuat = FQuat::Identity;
 		FName TargetBoneName = NAME_None;
@@ -540,7 +541,7 @@ void UHandSocketComponent::PoseVisualizationToAnimation(bool bForceRefresh)
 	if (!HandTargetAnimation)
 	{
 		// Store local poses for posing
-		LocalPoses = HandVisualizerComponent->SkeletalMesh->Skeleton->GetRefLocalPoses();
+		LocalPoses = HandVisualizerComponent->SkeletalMesh->GetSkeleton()->GetRefLocalPoses();
 	}
 
 	TArray<FName> BonesNames;

@@ -417,7 +417,7 @@ void EmptyLinkFunctionForGeneratedCodeVREPhysicsConstraintComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UVREPhysicsConstraintComponent, 1483469290);
+	IMPLEMENT_CLASS(UVREPhysicsConstraintComponent, 678351326);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UVREPhysicsConstraintComponent>()
 	{
 		return UVREPhysicsConstraintComponent::StaticClass();

@@ -6,8 +6,7 @@
 /NAME:"UE4Editor-SubstanceLink.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceLink\PCH.SubstanceLink.h.obj"
-"D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceLink\Module.SubstanceLink.cpp.obj"
+"D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceLink\PCH.SubstanceLink.h.obj"
+"D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceLink\Module.SubstanceLink.cpp.obj"
 "D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-/OUT:"D:\Rayscape\Rayscape\Plugins\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceLink\UE4Editor-SubstanceLink.lib"
-/INCLUDE:IMPLEMENT_MODULE_SubstanceLink
+/OUT:"D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceLink\UE4Editor-SubstanceLink.lib"

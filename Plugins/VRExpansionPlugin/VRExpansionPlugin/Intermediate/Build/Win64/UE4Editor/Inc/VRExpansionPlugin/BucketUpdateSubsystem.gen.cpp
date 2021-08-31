@@ -64,7 +64,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucket
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucketContainer()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("UpdateBucketContainer")),new UScriptStruct::TCppStructOps<FUpdateBucketContainer>);
+		UScriptStruct::DeferCppStructOps<FUpdateBucketContainer>(FName(TEXT("UpdateBucketContainer")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucketContainer;
 	struct Z_Construct_UScriptStruct_FUpdateBucketContainer_Statics
@@ -132,7 +132,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucket
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucket()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("UpdateBucket")),new UScriptStruct::TCppStructOps<FUpdateBucket>);
+		UScriptStruct::DeferCppStructOps<FUpdateBucket>(FName(TEXT("UpdateBucket")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucket;
 	struct Z_Construct_UScriptStruct_FUpdateBucket_Statics
@@ -200,7 +200,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucket
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucketDrop()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("UpdateBucketDrop")),new UScriptStruct::TCppStructOps<FUpdateBucketDrop>);
+		UScriptStruct::DeferCppStructOps<FUpdateBucketDrop>(FName(TEXT("UpdateBucketDrop")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFUpdateBucketDrop;
 	struct Z_Construct_UScriptStruct_FUpdateBucketDrop_Statics

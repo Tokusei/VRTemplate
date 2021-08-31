@@ -41,7 +41,7 @@ public: \
 	NO_API UParentRelativeAttachmentComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UParentRelativeAttachmentComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UParentRelativeAttachmentComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UParentRelativeAttachmentComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UParentRelativeAttachmentComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UParentRelativeAttachmentComponent(UParentRelativeAttachmentComponent&&); \
@@ -56,7 +56,7 @@ private: \
 	NO_API UParentRelativeAttachmentComponent(const UParentRelativeAttachmentComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UParentRelativeAttachmentComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UParentRelativeAttachmentComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UParentRelativeAttachmentComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UParentRelativeAttachmentComponent)
 
 

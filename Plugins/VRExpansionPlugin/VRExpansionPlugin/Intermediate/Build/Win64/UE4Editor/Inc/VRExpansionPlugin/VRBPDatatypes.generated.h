@@ -13,63 +13,63 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VREXPANSIONPLUGIN_VRBPDatatypes_generated_h
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1819_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1824_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvancedPhysicsHandleSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvancedPhysicsHandleSettings>();
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1763_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1768_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvancedPhysicsHandleAxisSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvancedPhysicsHandleAxisSettings>();
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1714_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1717_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPActorPhysicsHandleInformation_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPActorPhysicsHandleInformation>();
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1632_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1635_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPInterfaceProperties_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPInterfaceProperties>();
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1582_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1585_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPGripPair_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPGripPair>();
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1342_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1345_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPActorGripInformation_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPActorGripInformation>();
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1224_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1227_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPSecondaryGripInfo_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPSecondaryGripInfo>();
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1194_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1197_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvGripSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvGripSettings>();
 
-#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1042_GENERATED_BODY \
+#define Rayscape_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1045_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvGripPhysicsSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -231,7 +231,8 @@ template<> VREXPANSIONPLUGIN_API UEnum* StaticEnum<EBPHMDDeviceType>();
 	op(EGripCollisionType::ManipulationGripWithWristTwist) \
 	op(EGripCollisionType::AttachmentGrip) \
 	op(EGripCollisionType::CustomGrip) \
-	op(EGripCollisionType::EventsOnly) 
+	op(EGripCollisionType::EventsOnly) \
+	op(EGripCollisionType::LockedConstraint) 
 
 enum class EGripCollisionType : uint8;
 template<> VREXPANSIONPLUGIN_API UEnum* StaticEnum<EGripCollisionType>();

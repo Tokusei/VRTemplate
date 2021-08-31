@@ -108,7 +108,7 @@ public: \
 	NO_API AGrippableActor(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGrippableActor) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGrippableActor); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGrippableActor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGrippableActor); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AGrippableActor(AGrippableActor&&); \
@@ -123,7 +123,7 @@ private: \
 	NO_API AGrippableActor(const AGrippableActor&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGrippableActor); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGrippableActor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGrippableActor); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGrippableActor)
 
 

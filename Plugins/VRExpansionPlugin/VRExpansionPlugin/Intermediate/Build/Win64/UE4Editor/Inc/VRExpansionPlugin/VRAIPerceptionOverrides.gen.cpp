@@ -44,7 +44,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFAISightEvent
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFAISightEventVR()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("AISightEventVR")),new UScriptStruct::TCppStructOps<FAISightEventVR>);
+		UScriptStruct::DeferCppStructOps<FAISightEventVR>(FName(TEXT("AISightEventVR")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFAISightEventVR;
 	struct Z_Construct_UScriptStruct_FAISightEventVR_Statics

@@ -44,7 +44,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRControll
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRControllerProfile()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPVRControllerProfile")),new UScriptStruct::TCppStructOps<FBPVRControllerProfile>);
+		UScriptStruct::DeferCppStructOps<FBPVRControllerProfile>(FName(TEXT("BPVRControllerProfile")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVRControllerProfile;
 	struct Z_Construct_UScriptStruct_FBPVRControllerProfile_Statics

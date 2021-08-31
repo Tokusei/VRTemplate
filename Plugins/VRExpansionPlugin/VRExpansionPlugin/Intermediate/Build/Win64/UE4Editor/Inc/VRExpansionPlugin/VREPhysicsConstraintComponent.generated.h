@@ -62,7 +62,7 @@ public: \
 	NO_API UVREPhysicsConstraintComponent(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVREPhysicsConstraintComponent) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVREPhysicsConstraintComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVREPhysicsConstraintComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVREPhysicsConstraintComponent); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UVREPhysicsConstraintComponent(UVREPhysicsConstraintComponent&&); \
@@ -79,7 +79,7 @@ private: \
 	NO_API UVREPhysicsConstraintComponent(const UVREPhysicsConstraintComponent&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UVREPhysicsConstraintComponent); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVREPhysicsConstraintComponent); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVREPhysicsConstraintComponent); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVREPhysicsConstraintComponent)
 
 

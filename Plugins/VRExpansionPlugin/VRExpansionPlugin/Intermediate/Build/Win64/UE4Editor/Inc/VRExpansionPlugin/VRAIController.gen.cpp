@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeVRAIController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AVRAIController, 2540687892);
+	IMPLEMENT_CLASS(AVRAIController, 2651419171);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AVRAIController>()
 	{
 		return AVRAIController::StaticClass();
@@ -136,7 +136,7 @@ void EmptyLinkFunctionForGeneratedCodeVRAIController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AVRDetourCrowdAIController, 2904910548);
+	IMPLEMENT_CLASS(AVRDetourCrowdAIController, 332624382);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AVRDetourCrowdAIController>()
 	{
 		return AVRDetourCrowdAIController::StaticClass();

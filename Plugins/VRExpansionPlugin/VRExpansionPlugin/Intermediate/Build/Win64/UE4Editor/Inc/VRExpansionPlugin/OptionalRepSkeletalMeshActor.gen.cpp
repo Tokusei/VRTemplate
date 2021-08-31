@@ -48,7 +48,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFSkeletalMesh
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFSkeletalMeshComponentEndPhysicsTickFunctionVR()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("SkeletalMeshComponentEndPhysicsTickFunctionVR")),new UScriptStruct::TCppStructOps<FSkeletalMeshComponentEndPhysicsTickFunctionVR>);
+		UScriptStruct::DeferCppStructOps<FSkeletalMeshComponentEndPhysicsTickFunctionVR>(FName(TEXT("SkeletalMeshComponentEndPhysicsTickFunctionVR")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFSkeletalMeshComponentEndPhysicsTickFunctionVR;
 	struct Z_Construct_UScriptStruct_FSkeletalMeshComponentEndPhysicsTickFunctionVR_Statics
@@ -181,7 +181,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFSkeletalMesh
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UNoRepSphereComponent, 200682229);
+	IMPLEMENT_CLASS(UNoRepSphereComponent, 2852990207);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UNoRepSphereComponent>()
 	{
 		return UNoRepSphereComponent::StaticClass();
@@ -277,7 +277,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFSkeletalMesh
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UInversePhysicsSkeletalMeshComponent, 3180381724);
+	IMPLEMENT_CLASS(UInversePhysicsSkeletalMeshComponent, 4034341372);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UInversePhysicsSkeletalMeshComponent>()
 	{
 		return UInversePhysicsSkeletalMeshComponent::StaticClass();
@@ -396,7 +396,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFSkeletalMesh
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AOptionalRepGrippableSkeletalMeshActor, 2052110614);
+	IMPLEMENT_CLASS(AOptionalRepGrippableSkeletalMeshActor, 275303289);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<AOptionalRepGrippableSkeletalMeshActor>()
 	{
 		return AOptionalRepGrippableSkeletalMeshActor::StaticClass();

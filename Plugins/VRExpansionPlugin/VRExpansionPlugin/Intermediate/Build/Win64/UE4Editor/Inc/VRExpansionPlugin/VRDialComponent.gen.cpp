@@ -977,7 +977,7 @@ void EmptyLinkFunctionForGeneratedCodeVRDialComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UVRDialComponent, 561402048);
+	IMPLEMENT_CLASS(UVRDialComponent, 1786812398);
 	template<> VREXPANSIONPLUGIN_API UClass* StaticClass<UVRDialComponent>()
 	{
 		return UVRDialComponent::StaticClass();

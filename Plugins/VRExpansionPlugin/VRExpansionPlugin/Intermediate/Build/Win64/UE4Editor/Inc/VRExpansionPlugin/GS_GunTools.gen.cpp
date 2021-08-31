@@ -85,7 +85,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGunTools_Adv
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGunTools_AdvSecondarySettings()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("GunTools_AdvSecondarySettings")),new UScriptStruct::TCppStructOps<FGunTools_AdvSecondarySettings>);
+		UScriptStruct::DeferCppStructOps<FGunTools_AdvSecondarySettings>(FName(TEXT("GunTools_AdvSecondarySettings")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFGunTools_AdvSecondarySettings;
 	struct Z_Construct_UScriptStruct_FGunTools_AdvSecondarySettings_Statics
@@ -306,7 +306,7 @@ static struct FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVirtualSto
 {
 	FScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVirtualStockSettings()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("BPVirtualStockSettings")),new UScriptStruct::TCppStructOps<FBPVirtualStockSettings>);
+		UScriptStruct::DeferCppStructOps<FBPVirtualStockSettings>(FName(TEXT("BPVirtualStockSettings")));
 	}
 } ScriptStruct_VRExpansionPlugin_StaticRegisterNativesFBPVirtualStockSettings;
 	struct Z_Construct_UScriptStruct_FBPVirtualStockSettings_Statics
