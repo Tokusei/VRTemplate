@@ -4,6 +4,7 @@
 #include "D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Grippables/GrippableBoxComponent.cpp"
 #include "D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Grippables/GrippableCapsuleComponent.cpp"
 #include "D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Grippables/GrippableCharacter.cpp"
+#include "D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Grippables/GrippablePhysicsReplication.cpp"
 #include "D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Grippables/GrippableSkeletalMeshActor.cpp"
 #include "D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Grippables/GrippableSkeletalMeshComponent.cpp"
 #include "D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/Grippables/GrippableSphereComponent.cpp"

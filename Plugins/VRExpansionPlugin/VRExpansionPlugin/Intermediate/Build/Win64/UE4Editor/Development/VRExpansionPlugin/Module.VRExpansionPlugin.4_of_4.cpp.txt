@@ -656,6 +656,7 @@ D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Public\DrawDebugHelper
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Engine\Classes\Components/LineBatchComponent.h
 D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LineBatchComponent.generated.h
 D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRGestureComponent.generated.h
+D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGlobalSettings.cpp
 D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRGripInterface.cpp
 D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPathFollowingComponent.cpp
 D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPathFollowingComponent.h
@@ -677,6 +678,13 @@ D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Navig
 D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRPlayerController.cpp
 D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRPlayerController.h
 D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRPlayerController.generated.h
+D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRRootComponent.cpp
+D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacter.h
+D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRCharacterMovementComponent.h
+D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacterMovementComponent.generated.h
+D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Inc\VRExpansionPlugin\VRCharacter.generated.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Algo/Copy.h
+D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Algo/Common.h
 D:/Rayscape/Rayscape/Plugins/VRExpansionPlugin/VRExpansionPlugin/Source/VRExpansionPlugin/Private/VRStereoWidgetComponent.cpp
 D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public\VRStereoWidgetComponent.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\UMG\Public\Components/WidgetComponent.h
@@ -762,7 +770,6 @@ D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\MovieScene\Public\EntitySyste
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
-D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\Core\Public\Algo/Common.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
 D:\UnrealEngine-OculusBranch\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h

@@ -34,7 +34,6 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\HandSocketComponentDetails.cpp.obj"
 "D:\Rayscape\Rayscape\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
 "D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
 "D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"

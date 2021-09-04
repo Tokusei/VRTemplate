@@ -8,10 +8,6 @@
 /NODEFAULTLIB
 "D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\PCH.SubstanceCore.h.obj"
 "D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\Module.SubstanceCore.cpp.obj"
-"D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\SubstanceCore.init.gen.cpp.obj"
-"D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\SubstanceGraphInstance.gen.cpp.obj"
-"D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\SubstanceTexture2D.gen.cpp.obj"
-"D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\SubstanceUtility.gen.cpp.obj"
 "D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\Module.SubstanceCore.gen.cpp.obj"
 "D:\UnrealEngine-OculusBranch\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
 /OUT:"D:\Rayscape\Rayscape\Plugins\Runtime\Substance\Intermediate\Build\Win64\UE4Editor\Development\SubstanceCore\UE4Editor-SubstanceCore.lib"
